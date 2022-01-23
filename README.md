@@ -13,14 +13,13 @@ Above mentioned Assistant is designed to have conversations with Human user.  To
 
 
 
-
-Packet sniffing provides IP packets for analysis.  Often, mentioned analysis is expected to happen in near real time.   IBM Watson Assistant provides provides tool set to design “கண்காணிப்பு Monitoring  Assistant”, in short period of time and deploy it in cloud or in on-premise infra structure.  
+Packet sniffing provides IP packets for analysis.  Often, mentioned analysis is expected to happen in near real time.   IBM Watson Assistant provides a tool set to design “கண்காணிப்பு Monitoring  Assistant '', in a short period of time and deploy it in cloud or in on-premise infrastructure.  
 
 
 
 ![v5](https://user-images.githubusercontent.com/58679469/150686405-8ccc22ac-616a-49d8-95d4-24df45d4ec12.png)
 
-
+Kanshi Assistant is required to perform  deep learning model based inference on one side and continue to have a meaningful conversation with Human being.
 
 
 ![v6](https://user-images.githubusercontent.com/58679469/150686417-834d2fac-1fba-40b6-b9d9-de18adc26eec.png)
