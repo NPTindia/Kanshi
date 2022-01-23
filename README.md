@@ -26,6 +26,19 @@ Create and launch a highly-intelligent, AI-powered virtual agent in an hour with
 
 https://cloud.ibm.com/registration?target=/developer/watson/launch-tool/conversation&hideTours=true&cm_sp=WatsonPlatform-WatsonPlatform-_-OnPageNavCTA-IBMWatson_Conversation-_-Watson_Developer_Website&cm_mmca1=000027BD 
 
+The new Watson Assistant experience, focused on using actions to build customer conversations, is designed to make it simple enough for anyone to build a virtual assistant. Building, testing, publishing, and analyzing your assistant can all now be done in one simple and intuitive interface.
+
+<ul>
+  <li>  New navigation provides a workflow for building, previewing, publishing, and analyzing your assistant.  </li>
+   <li>  Each assistant has a home page with a task list to help you get started.  </li>
+   <li> Build conversations with actions, which represent the tasks you want your assistant to help your customers with. Each action contains a series of steps that represent individual exchanges with a customer.  </li>
+   <li> 
+    A new way to publish lets you review and debug your work in a draft environment before going live to your customers.  </li>
+   <li>     Use a new suite of analytics to improve your assistant. Review which actions are being completed to see what your customers want help with, determine if your assistant understands and addresses customer needs, and decide how can you make your assistant better.  </li>
+</ul>
+
+
+   
 
 
 
