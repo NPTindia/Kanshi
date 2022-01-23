@@ -19,7 +19,11 @@ Packet sniffing provides IP packets for analysis.  Often, mentioned analysis is 
 
 ![v5](https://user-images.githubusercontent.com/58679469/150686405-8ccc22ac-616a-49d8-95d4-24df45d4ec12.png)
 
-Kanshi Assistant is required to perform  deep learning model based inference on one side and continue to have a meaningful conversation with Human being.
+
+Kanshi Assistant is required to perform  deep learning model based inference on one side and continue to have a meaningful conversation with Human being. IB< Watson Assistant provides infrastructure for design and development of Kanshi Assistant.  Moreover, experts in network security can handle the above mentioned design and development of Kanshi Assistant.  In fact, during development, No limitations, no complications, no code required to build Kanshi Assistant. 
+
+Create and launch a highly-intelligent, AI-powered virtual agent in an hour without writing a single line of code. Connect to existing content sources and applications to get stuff done for your customers.
+
 
 
 ![v6](https://user-images.githubusercontent.com/58679469/150686417-834d2fac-1fba-40b6-b9d9-de18adc26eec.png)
