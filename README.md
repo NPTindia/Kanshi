@@ -24,6 +24,10 @@ Kanshi Assistant is required to perform  deep learning model based inference on 
 
 Create and launch a highly-intelligent, AI-powered virtual agent in an hour without writing a single line of code. Connect to existing content sources and applications to get stuff done for your customers.
 
+https://cloud.ibm.com/registration?target=/developer/watson/launch-tool/conversation&hideTours=true&cm_sp=WatsonPlatform-WatsonPlatform-_-OnPageNavCTA-IBMWatson_Conversation-_-Watson_Developer_Website&cm_mmca1=000027BD 
+
+
+
 
 
 ![v6](https://user-images.githubusercontent.com/58679469/150686417-834d2fac-1fba-40b6-b9d9-de18adc26eec.png)
