@@ -37,14 +37,10 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
 
 ![NetworkSecurityLab(1)](https://user-images.githubusercontent.com/58679469/150686463-becf05b1-cd0e-4d4c-868e-d07a55f7f4f2.jpg)
 
-![NetworkSecurityLab(2)](https://user-images.githubusercontent.com/58679469/150686466-38af2144-a50a-420f-85b9-50721f69ae75.jpg)
 
 
 
-![NetworkSecurityLab(3)](https://user-images.githubusercontent.com/58679469/150686471-a602a3a9-4ecd-4656-9de4-889b3cb8b0a5.jpg)
-
-
-
+![NetworkSecurityLab(4)](https://user-images.githubusercontent.com/58679469/150686584-18f43ef8-22f9-4664-8c13-a7345a1b0000.jpg)
 
 
 
