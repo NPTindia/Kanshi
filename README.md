@@ -122,12 +122,53 @@ The new Watson Assistant experience, focused on using actions to build customer 
 ## 3.3 Softwaare for Flow Collection
 
 ###  3.3.1 Wireshark 
-
+<div align="justify"> 
+<p>   </p>
+<p>   </p>
+ </div>
+ 
 ###  3.3.2 tcpdump 
-
+<div align="justify"> 
+<p>   </p>
+<p>   </p>
+ </div>
+ 
 ###  3.3.3 Firesheep
 
+<div align="justify"> 
+<p>   </p>
+<p>   </p>
+ </div>
+ 
 ###  3.3.4  Scapy
+<div align="justify"> 
+<p>  
+Scapy is a python package used to sniff, analyze, and send and receive arbitrary network packets. It comes with many of the common network layers built in. It can send packets at the "link layer", which means that even custom WiFi packets are possible (more on that later). With Scapy, nothing is hidden from you, all parts of the packets you send and receive are modifiable and can be inspected </p>
+<p>  Scapy is a powerful and versatile tool that can replace most of the networking tools you're used to, like nmap, tcpdump, and traceroute. It allows you to experiment with low level networking code in a high level language. You can write servers, routers, firewalls, network tracing tools, and pretty much anything in Scapy, due to it's ability to sniff, send, and respond to packets. All of these properties make it very useful for network based attacks. </p>
+ </div>
+.
+sudo apt install python-scapy 
+
+sudo scapy
+INFO: Can't import matplotlib. Won't be able to plot.
+INFO: Can't import PyX. Won't be able to use psdump() or pdfdump().
+WARNING: No route found for IPv6 destination :: (no default route?)
+INFO: Can't import python ecdsa lib. Disabled certificate manipulation tools
+Welcome to Scapy (2.3.3)
+>>> packet = Ether()
+>>> packet.show()
+WARNING: Mac address to reach destination not found. Using broadcast.
+###[ Ethernet ]###
+  dst= ff:ff:ff:ff:ff:ff
+  src= f8:da:0c:48:b9:d1
+  type= 0x9000
+
+>>> hex(packet.type)
+'0x9000'
+
+
+
+
 
 ###  3.3.5  QRadar
 
