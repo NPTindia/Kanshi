@@ -27,7 +27,6 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
 }
 </style>
 </head>
- 
 <body>
 
 <h2>Images Side by Side</h2>
