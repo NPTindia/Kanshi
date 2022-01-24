@@ -79,7 +79,8 @@ The new Watson Assistant experience, focused on using actions to build customer 
 
 
 
-
+<div align="justify"> 
+<p> 
 <ul>
   <li>  New navigation provides a workflow for building, previewing, publishing, and analyzing your assistant.  </li>
    <li>  Each assistant has a home page with a task list to help you get started.  </li>
@@ -88,6 +89,8 @@ The new Watson Assistant experience, focused on using actions to build customer 
     A new way to publish lets you review and debug your work in a draft environment before going live to your customers.  </li>
    <li>     Use a new suite of analytics to improve your assistant. Review which actions are being completed to see what your customers want help with, determine if your assistant understands and addresses customer needs, and decide how can you make your assistant better.  </li>
 </ul>
+ </p>
+ </div>
 
 
 ## 3.2 Hardwaare for Flow Collection 
