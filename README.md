@@ -222,7 +222,7 @@ Reconstruction is different from regression or classification in that it estimat
 
 
 
-
+<img align="center" width="200" height="200" src="https://user-images.githubusercontent.com/58679469/150686429-1e6be85d-d9fc-4d70-8b89-55f7433b1748.png">
 
 
 ![v9](https://user-images.githubusercontent.com/58679469/150686429-1e6be85d-d9fc-4d70-8b89-55f7433b1748.png)
