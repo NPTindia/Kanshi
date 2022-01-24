@@ -11,26 +11,10 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
  
  
  
- <p><cite>The Scream</cite> by Edward Munch. Painted in 1893.</p>
+ <p><cite> Escalating actions: Russia has sent more than 100,000 soldiers to the nation's border with Ukraine. While no physical invasion has taken place yet, cyber operations are already underway. Earlier this month, hackers defaced dozens of government websites in Ukraine, a technically simple but attention-grabbing act that generated global headlines. More quietly, they also placed destructive malware inside Ukrainian government agencies. It’s not clear yet who is responsible, but Russia is the leading suspec </cite> t.*MIT Technology Review  01.24.22. </p>
  
  
- <style>
-body {
-  background-color: #5DADE2;
-}
-</style>
 
-<style>
-.borderexample {
- border-style:solid;
- border-color:#5DADE2;
-}
-</style>
-
-<left>
-<p class="borderexample">  <font size="+3";font color ="white";>  Escalating actions: Russia has sent more than 100,000 soldiers to the nation's border with Ukraine. While no physical invasion has taken place yet, cyber operations are already underway. Earlier this month, hackers defaced dozens of government websites in Ukraine, a technically simple but attention-grabbing act that generated global headlines. More quietly, they also placed destructive malware inside Ukrainian government agencies. It’s not clear yet who is responsible, but Russia is the leading suspect.*MIT Technology Review  01.24.22
-     </font>      <font size="+2";font color ="white";>    </font> </p>
-</left>
  
  
  
