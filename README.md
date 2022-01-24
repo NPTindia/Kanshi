@@ -337,10 +337,13 @@ The main reason for this is complexity in the identification and assigning of va
 
 ![NetworkSecurityLab](https://user-images.githubusercontent.com/58679469/150686458-0f1f0f10-84d9-4580-a694-15644f2064ec.jpg)
 
-sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    John-->>Alice: Great!
-    Alice-)John: See you later!
+```mermaid
+graph TD;
+A →B;
+A →C;
+B →D;
+C →D;
+```
 
 # 6. Sanshi Assistant Development 
 
