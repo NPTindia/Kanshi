@@ -98,7 +98,7 @@ IBM Security QRadar flows represent network activity by normalizing IP addresses
 
 ![NetworkSecurityLab(1)](https://user-images.githubusercontent.com/58679469/150686463-becf05b1-cd0e-4d4c-868e-d07a55f7f4f2.jpg)
 
-# 7. Sanshi Assistant Deployent
+# 7. Sanshi Assistant Deployment
 
 
 ![NetworkSecurityLab(4)](https://user-images.githubusercontent.com/58679469/150686584-18f43ef8-22f9-4664-8c13-a7345a1b0000.jpg)
