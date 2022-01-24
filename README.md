@@ -206,7 +206,7 @@ Poisson sampling is a sampling process where each element of the population is s
   <img src="https://user-images.githubusercontent.com/58679469/150721702-1f34218d-a4ac-49cc-83d7-3802fb65dbc7.png">
 </p>
 
-
+## 4.1 Restricted Boltzmann Machines
 
 Boltzmann machine:  Each undirected edge represents dependency. In this example there are 3 hidden units and 4 visible units. 
 
@@ -234,6 +234,17 @@ Reconstruction is different from regression or classification in that it estimat
 ![v9](https://user-images.githubusercontent.com/58679469/150686429-1e6be85d-d9fc-4d70-8b89-55f7433b1748.png)
 
 
+
+
+
+
+
+
+
+
+ ## 4.2  Quantitative Risk assessment 
+
+
 <div align="justify"> 
 <p>  Bayesian networks are directed acyclic graphs (DAGs) whose nodes represent variables in the Bayesian sense: they may be observable quantities, latent variables, unknown parameters or hypotheses. Edges represent conditional dependencies; nodes that are not connected (no path connects one node to another) represent variables that are conditionally independent of each other. Each node is associated with a probability function that takes, as input, a particular set of values for the node's parent variables, and gives (as output) the probability (or probability distribution, if applicable) of the variable represented by the node. </p>
 <p> Probabilistic graphical model that represents a set of variables and their conditional dependencies via a directed acyclic graph (DAG)  </p>
@@ -241,14 +252,6 @@ Reconstruction is different from regression or classification in that it estimat
 <p> Gibbs sampling is applicable when the joint distribution is not known explicitly or is difficult to sample from directly, but the conditional distribution of each variable is known and is easy (or at least, easier) to sample from.  The Gibbs sampling algorithm generates an instance from the distribution of each variable in turn, conditional on the current values of the other variable. Gibbs sampling is particularly well-adapted to sampling the posterior distribution of a Bayesian network, since Bayesian networks are typically specified as a collection of conditional distributions.  Given an input vector v we are using p(h|v)  for prediction of the hidden values h. Knowing the hidden values we use p(v|h)for prediction of new input values v. This process is repeated k times. After k iterations we obtain an other input vector v_k which was recreated from original input values v_0  </p>
  </div>
 
-
-
-
-
-
-
-
- ## 4.1  Quantitative Risk assessment 
 
 <div align="justify"> 
 <p>  This can be measured as the direct cost of the risk and indirect cost of the risk
@@ -265,8 +268,11 @@ The main reason for this is complexity in the identification and assigning of va
 
 
  
- ## 4.2  Quantitative Risk assessment 
+ ## 4.3  Qualitative Risk assessment 
  <div align="justify"> 
+ <p> 
+ The inclusion of qualitative scales is especially useful when quantitative data for estimation of probabilities are lacking and experts are reluctant to express their opinions quantitatively. In reliability and risk analysis such situation occurs when for example human and organizational root causes of systems are modeled explicitly. Such causes are often not quantifiable due to limitations in the state of the art and lack of proper quantitative metrics
+  </p>
 <p>  Assumption in qualitative risk assessment is that there exists a high degree of uncertainty of impact values and likelihood that’s defined. Risk is subjective in terms of issues where the greater the difficulty in qualitative risk is in describing the likelihood and impact values. These values should be standard scaled so that it can be used with consistency across different risk assessment methods Some drawbacks of qualitative risk assessment are harder to communicate the results to management without precise information. Just saying the risk is high or low will not give a better understanding. To improve and overcome this hurdle, a table with impact and likelihood tables and the potential impact will assist the management in better handling the risk.  </p>
  </div>
 
