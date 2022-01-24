@@ -330,18 +330,25 @@ The main reason for this is complexity in the identification and assigning of va
 <p>  Assumption in qualitative risk assessment is that there exists a high degree of uncertainty of impact values and likelihood that’s defined. Risk is subjective in terms of issues where the greater the difficulty in qualitative risk is in describing the likelihood and impact values. These values should be standard scaled so that it can be used with consistency across different risk assessment methods Some drawbacks of qualitative risk assessment are harder to communicate the results to management without precise information. Just saying the risk is high or low will not give a better understanding. To improve and overcome this hurdle, a table with impact and likelihood tables and the potential impact will assist the management in better handling the risk.  </p>
  </div>
 
+# Data Set : PCAP file / Stream to Tensor
 
+- Collect data from Netowrk and store it in PCAP File
+- Process PCAP file as given in the following diagram to get Tensor
+- Tesone is having time stamp column and Packet Data column
+
+
+![NetworkSecurityLab](https://user-images.githubusercontent.com/58679469/150686458-0f1f0f10-84d9-4580-a694-15644f2064ec.jpg)
 
  
-# 5. Sanshi Assistant Design
+# 6. Sanshi Assistant Design
 
-## 5.1 Wake up Sanshi
-  ### 5.1.1 Use Text to Wake up Sanshi
+## 6.1 Wake up Sanshi
+  ### 6.1.1 Use Text to Wake up Sanshi
   
    - Design Wake Word Listener
    - Design Wake Word Model  
   
-  ### 5.1.2 Use Voice to Wake up Sanshi
+  ### 6.1.2 Use Voice to Wake up Sanshi
   
    
    - Use Speech Recognition  to get Text
@@ -349,29 +356,28 @@ The main reason for this is complexity in the identification and assigning of va
    - Use NLP for Dialog Flow
    - use Speech Synthesis to displaay message to user.
    
-## 5.2  Design Dialog Skill for Sanshi
+## 6.2  Design Dialog Skill for Sanshi
 
-![NetworkSecurityLab](https://user-images.githubusercontent.com/58679469/150686458-0f1f0f10-84d9-4580-a694-15644f2064ec.jpg)
 
- ### 5.2.1 Indents design
+ ### 6.2.1 Indents design
  
- ### 5.2.2 Entities  design
+ ### 6.2.2 Entities  design
  
-  ### 5.2.2 Dialog   design
+  ### 6.2.2 Dialog   design
 
 
 
 
 
 
-## 5.3  Design  Search  Skill for Sanshi
+## 6.3  Design  Search  Skill for Sanshi
 
 
 
 
 `[![](https://mermaid.ink/img/eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG5BbGljZS0-PkpvaG46IEhlbGxvIEpvaG4sIGhvdyBhcmUgeW91P1xubG9vcCBIZWFsdGhjaGVja1xuICAgIEpvaG4tPj5Kb2huOiBGaWdodCBhZ2FpbnN0IGh5cG9jaG9uZHJpYVxuZW5kXG5Ob3RlIHJpZ2h0IG9mIEpvaG46IFJhdGlvbmFsIHRob3VnaHRzIVxuSm9obi0tPj5BbGljZTogR3JlYXQhXG5Kb2huLT4-Qm9iOiBIb3cgYWJvdXQgeW91P1xuQm9iLS0-PkpvaG46IEpvbGx5IGdvb2QhIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjp0cnVlLCJhdXRvU3luYyI6dHJ1ZSwidXBkYXRlRGlhZ3JhbSI6dHJ1ZX0)](https://mermaid-js.github.io/mermaid-live-editor/edit#eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG5BbGljZS0-PkpvaG46IEhlbGxvIEpvaG4sIGhvdyBhcmUgeW91P1xubG9vcCBIZWFsdGhjaGVja1xuICAgIEpvaG4tPj5Kb2huOiBGaWdodCBhZ2FpbnN0IGh5cG9jaG9uZHJpYVxuZW5kXG5Ob3RlIHJpZ2h0IG9mIEpvaG46IFJhdGlvbmFsIHRob3VnaHRzIVxuSm9obi0tPj5BbGljZTogR3JlYXQhXG5Kb2huLT4-Qm9iOiBIb3cgYWJvdXQgeW91P1xuQm9iLS0-PkpvaG46IEpvbGx5IGdvb2QhIiwibWVybWFpZCI6IntcbiAgXCJ0aGVtZVwiOiBcImRlZmF1bHRcIlxufSIsInVwZGF0ZUVkaXRvciI6dHJ1ZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOnRydWV9)
 
-# 6. Sanshi Assistant Development 
+# 7. Sanshi Assistant Development 
 
 ![NetworkSecurityLab(1)](https://user-images.githubusercontent.com/58679469/150686463-becf05b1-cd0e-4d4c-868e-d07a55f7f4f2.jpg)
 
@@ -379,7 +385,7 @@ The main reason for this is complexity in the identification and assigning of va
 
 ![NetworkSecurityLab(4)](https://user-images.githubusercontent.com/58679469/150686584-18f43ef8-22f9-4664-8c13-a7345a1b0000.jpg)
 
-# 7. Sanshi Assistant Deployment
+# 8. Sanshi Assistant Deployment
 
 
 
@@ -391,7 +397,7 @@ The main reason for this is complexity in the identification and assigning of va
 
 
 
-# Reference 
+# 9. Reference 
 
 1. https://cloud.ibm.com/registration?target=/developer/watson/launch-tool/conversation&hideTours=true&cm_sp=WatsonPlatform-WatsonPlatform-_-OnPageNavCTA-IBMWatson_Conversation-_-Watson_Developer_Website&cm_mmca1=000027BD 
 2.  ..
