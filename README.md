@@ -3,7 +3,14 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
 
 # 1. Introduction
 
- The Internet is designed to carry data by using IP packets across the network and deliver,  as per destination given its header segment. Challenge is to monitor above mentioned IP packets in a given enterprise  network and permit the same IP packet to travel to a defined destination mahine. IP packets have few variations such as TCP, UDP and ICMP.  Moreover, mentioned IP packets need  to use PORTs in a given Machine to deliver.  There have been events in which unwanted and harmful IP packets are used  to perform certain act in a remote machine.  Thus, there is a need to stop such IP packets in a given enterprise network and provide safety  to users of the internet in their enterprise. Volume of IP packets travels in a given enterprise network requires a huge amount of computing power to monitor IP packets and safeguard their user application.  
+ The Internet is designed to carry data by using IP packets across the network and deliver,  as per destination given its header segment. Challenge is to monitor above mentioned IP packets in a given enterprise  network and permit the same IP packet to travel to a defined destination mahine. IP packets have few variations such as TCP, UDP and ICMP.  Moreover, mentioned IP packets need  to use PORTs in a given Machine to deliver.  
+ 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/58679469/150686417-834d2fac-1fba-40b6-b9d9-de18adc26eec.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+ 
+ There have been events in which unwanted and harmful IP packets are used  to perform certain act in a remote machine.  Thus, there is a need to stop such IP packets in a given enterprise network and provide safety  to users of the internet in their enterprise. Volume of IP packets travels in a given enterprise network requires a huge amount of computing power to monitor IP packets and safeguard their user application.  
 
  Autonomous monitoring systems require “capturing IP packets “ in neal time and infer safety level of enterprise network,  Digital Assistant with AI provides a method to monitor a given enterprise IP network. 
 
@@ -45,9 +52,6 @@ The new Watson Assistant experience, focused on using actions to build customer 
 
 
    
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/58679469/150686417-834d2fac-1fba-40b6-b9d9-de18adc26eec.png?raw=true" alt="Sublime's custom image"/>
-</p>
 
 
 
