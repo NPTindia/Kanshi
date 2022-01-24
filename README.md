@@ -202,11 +202,13 @@ Poisson sampling is a sampling process where each element of the population is s
 <p> Poisson distribution expresses the probability of a given number of events occurring in a fixed interval of time   </p>
  </div>
 
+## 4.1 Restricted Boltzmann Machines
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58679469/150721702-1f34218d-a4ac-49cc-83d7-3802fb65dbc7.png">
 </p>
 
-## 4.1 Restricted Boltzmann Machines
+
 
 Boltzmann machine:  Each undirected edge represents dependency. In this example there are 3 hidden units and 4 visible units. 
 
