@@ -2,8 +2,11 @@
 Deep Learning in  Network  monitoring ( கண்காணிப்பு )  
 
 # 1. Introduction
-
+<div align="justify"> 
+<p> 
  The Internet is designed to carry data by using IP packets across the network and deliver,  as per destination given its header segment. Challenge is to monitor above mentioned IP packets in a given enterprise  network and permit the same IP packet to travel to a defined destination mahine. IP packets have few variations such as TCP, UDP and ICMP.  Moreover, mentioned IP packets need  to use PORTs in a given Machine to deliver.  
+ </p>
+ </div>
  
  
  <p align="center">
