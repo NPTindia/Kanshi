@@ -99,6 +99,12 @@ IBM Security QRadar flows represent network activity by normalizing IP addresses
 
 
 # 4. Mathematicaal Model 
+
+What is the need to model binary data? </br> 
+What we can do with model? </br>
+How probability is assigned  to binary vector ? and how this is connected to the weights of Boltzmann Machine?
+
+
 ![v9](https://user-images.githubusercontent.com/58679469/150686429-1e6be85d-d9fc-4d70-8b89-55f7433b1748.png)
 
 # 5. Sanshi Assistant Design
