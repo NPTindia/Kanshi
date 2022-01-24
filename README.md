@@ -148,9 +148,9 @@ Scapy is a python package used to sniff, analyze, and send and receive arbitrary
  </div>
 
 <p align="center">
-  <img alt="Light" src="https://user-images.githubusercontent.com/58679469/150744603-81d8c417-e80a-4b82-9e07-a2c11719c548.png" width="50%">
+  <img alt="Light" src="https://user-images.githubusercontent.com/58679469/150744603-81d8c417-e80a-4b82-9e07-a2c11719c548.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://user-images.githubusercontent.com/58679469/150744656-d3bca0bc-6bd0-4c24-a462-a966496814c7.png" width="50%">
+  <img alt="Dark" src="https://user-images.githubusercontent.com/58679469/150744656-d3bca0bc-6bd0-4c24-a462-a966496814c7.png" width="45%">
 </p>
 
 
