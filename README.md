@@ -146,27 +146,12 @@ The new Watson Assistant experience, focused on using actions to build customer 
 Scapy is a python package used to sniff, analyze, and send and receive arbitrary network packets. It comes with many of the common network layers built in. It can send packets at the "link layer", which means that even custom WiFi packets are possible (more on that later). With Scapy, nothing is hidden from you, all parts of the packets you send and receive are modifiable and can be inspected </p>
 <p>  Scapy is a powerful and versatile tool that can replace most of the networking tools you're used to, like nmap, tcpdump, and traceroute. It allows you to experiment with low level networking code in a high level language. You can write servers, routers, firewalls, network tracing tools, and pretty much anything in Scapy, due to it's ability to sniff, send, and respond to packets. All of these properties make it very useful for network based attacks. </p>
  </div>
-.
-sudo apt install python-scapy 
 
-sudo scapy
-INFO: Can't import matplotlib. Won't be able to plot.
-INFO: Can't import PyX. Won't be able to use psdump() or pdfdump().
-WARNING: No route found for IPv6 destination :: (no default route?)
-INFO: Can't import python ecdsa lib. Disabled certificate manipulation tools
-Welcome to Scapy (2.3.3)
->>> packet = Ether()
->>> packet.show()
-WARNING: Mac address to reach destination not found. Using broadcast.
-###[ Ethernet ]###
-  dst= ff:ff:ff:ff:ff:ff
-  src= f8:da:0c:48:b9:d1
-  type= 0x9000
-
->>> hex(packet.type)
-'0x9000'
-
-
+<p align="center">
+  <img alt="Light" src="https://user-images.githubusercontent.com/58679469/150744603-81d8c417-e80a-4b82-9e07-a2c11719c548.png" width="35%">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://user-images.githubusercontent.com/58679469/150744656-d3bca0bc-6bd0-4c24-a462-a966496814c7.png" width="55%">
+</p>
 
 
 
