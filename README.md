@@ -337,31 +337,15 @@ The main reason for this is complexity in the identification and assigning of va
 
 ![NetworkSecurityLab](https://user-images.githubusercontent.com/58679469/150686458-0f1f0f10-84d9-4580-a694-15644f2064ec.jpg)
 
-<html>
-    <body>
-        <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-        <script>
-            mermaid.initialize({ startOnLoad: true });
-        </script>
-
-        Here is one mermaid diagram:
-        <div class="mermaid">
-            graph TD 
-            A[Client] --> B[Load Balancer] 
-            B --> C[Server1] 
-            B --> D[Server2]
-        </div>
-
-        And here is another:
-        <div class="mermaid">
-            graph TD 
-            A[Client] -->|tcp_123| 
-            B(Load Balancer) 
-            B -->|tcp_456| C[Server1] 
-            B -->|tcp_456| D[Server2]
-        </div>
-    </body>
-</html>
+<body>
+    Here is a mermaid diagram:
+    <div class="mermaid">
+        graph TD 
+        A[Client] --> B[Load Balancer] 
+        B --> C[Server01] 
+        B --> D[Server02]
+    </div>
+</body>
 
 # 6. Sanshi Assistant Development 
 
