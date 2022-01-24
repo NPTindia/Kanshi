@@ -5,6 +5,14 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
 
  The Internet is designed to carry data by using IP packets across the network and deliver,  as per destination given its header segment. Challenge is to monitor above mentioned IP packets in a given enterprise  network and permit the same IP packet to travel to a defined destination mahine. IP packets have few variations such as TCP, UDP and ICMP.  Moreover, mentioned IP packets need  to use PORTs in a given Machine to deliver.  
  
+ 
+ <p align="center">
+  <img alt="Light" src="https://user-images.githubusercontent.com/58679469/150729053-6a1deae5-f6a2-46e0-bac0-7dd676c96e04.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://user-images.githubusercontent.com/58679469/150728889-8eb74247-8fc9-4691-96a6-9899583756f0.png" width="45%">
+</p>
+
+
 
 <div class="row">
   <div class="column">
@@ -13,10 +21,7 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
   <div class="column">
     <img src="https://user-images.githubusercontent.com/58679469/150728889-8eb74247-8fc9-4691-96a6-9899583756f0.png"  >
   </div>
-  <div class="column">
-    <img src="https://user-images.githubusercontent.com/58679469/150728889-8eb74247-8fc9-4691-96a6-9899583756f0.png"  >
-  </div>
-</div>
+ </div>
 
 
 
