@@ -45,11 +45,14 @@ The new Watson Assistant experience, focused on using actions to build customer 
 
 
    
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58679469/150686417-834d2fac-1fba-40b6-b9d9-de18adc26eec.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 
 
 
-![v6](https://user-images.githubusercontent.com/58679469/150686417-834d2fac-1fba-40b6-b9d9-de18adc26eec.png)
+
 
 Flow collection requires custom made hardware and associated software such that near real time Packet capture cam be carried out.   IBM Security QRadar Network Packet Capture (MTM 4412-F2C) offers an optional IBM Security QRadar  Packet Capture appliance to store and manage data that is used by QRadar Incident Forensics when no other network packet capture (PCAP) device is deployed. Any number of these appliances can be installed as a tap on a network or sub-network to collect the raw packet data.
 
