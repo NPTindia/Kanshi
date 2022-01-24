@@ -113,7 +113,7 @@ The new Watson Assistant experience, focused on using actions to build customer 
 
 
 
-### 3.2.1 SPAN
+### 3.2.2 SPAN
 <div align="justify"> 
 <p> Port mirroring, also known as SPAN or roving analysis, is a method of monitoring network traffic that forwards a copy of each incoming and/or outgoing packet from one or more port (or VLAN) of a switch to another port where the network traffic analyzer is connected. SPAN is often used on simpler systems to monitor multiple stations at once  </p>
  </div>
