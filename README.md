@@ -100,12 +100,73 @@ IBM Security QRadar flows represent network activity by normalizing IP addresses
 
 # 4. Mathematicaal Model 
 
+
+
 What is the need to model binary data? </br> 
 What we can do with model? </br>
-How probability is assigned  to binary vector ? and how this is connected to the weights of Boltzmann Machine?
+How probability is assigned  to binary vector ? </br>
+how this is connected to the weights of Boltzmann Machine?
+
+
+Boltzmann Machine models set of Binary Vectors  </br>
+How to use Boltzmann machine to detect unusual behaviour of Complex Systems?. For example vital sign monitoring by using Boltzmann machine
+
+Build a model for Normal state. </br>
+For example use data of TCP/IP flow  in Enterprise  Network   to model Normal state 
+
+Measured state is Captured Flow 
+
+![image](https://user-images.githubusercontent.com/58679469/150720790-06437eee-0d69-4565-bf28-27e7123f4f4d.png)
+
+
+Find out  this state is part of normal state or something new, in case new, then this abnormal detection need to be notified to concerned subscribers.
+
+Measurements of any kind, in any experiment, are always subject to uncertainties or errors, as they are  more often called. Measurement process is, in fact, a random process described by an abstract probability distribution whose parameters contain the information  desired. The results of a measurement are then samples from this distribution which allow an estimate of the theoretical parameters. In this view, measurement errors can be seen then as sampling errors.
+
+
+![image](https://user-images.githubusercontent.com/58679469/150721619-b67ae977-e55d-4f39-994c-c60d87382577.png)
+
+
+Probability mass function (PMF) is a function that gives the probability that a discrete random variable is exactly equal to some value
+
+A probability mass function differs from a probability density function (PDF) in that the latter is associated with continuous rather than discrete random variables. A PDF must be integrated over an interval to yield a probability.
+
+The probability distribution of a random variable is a function that takes the sample space as input and returns probabilities: in other words, it maps possible outcomes to their probabilities.
+
+"Posterior", in this context, means after taking into account the relevant evidence related to the particular case being examined. The posterior probability distribution is the probability distribution of an unknown quantity, treated as a random variable, conditional on the evidence obtained from an experiment or survey
+
+
+
+Poisson sampling is a sampling process where each element of the population is subjected to an independent Bernoulli trial which determines whether the element becomes part of the sample
+
+Poisson distribution expresses the probability of a given number of events occurring in a fixed interval of time 
+
+![image](https://user-images.githubusercontent.com/58679469/150721702-1f34218d-a4ac-49cc-83d7-3802fb65dbc7.png)
+
+Boltzmann machine:  Each undirected edge represents dependency. In this example there are 3 hidden units and 4 visible units. 
+
+This is a restricted Boltzmann machine.
+
+Restricted Boltzmann Machines are probabilistic. As opposed to assigning discrete values the model assigns probabilities. At each point in time the RBM is in a certain state. The state refers to the values of neurons in the visible and hidden layers v and h.
+
+![image](https://user-images.githubusercontent.com/58679469/150721809-68974f08-992c-4a26-ae39-67401350a75a.png)
+
+
+This is the point where Restricted Boltzmann Machines meets Physics for the second time. The joint distribution is known in Physics as the Boltzmann Distribution which gives the probability that a particle can be observed in the state with the energy E. As in Physics we assign a probability to observe a state of v and h, that depends on the overall energy of the model. Unfortunately it is very difficult to calculate the joint probability due to the huge number of possible combination of v and h in the partition function Z. Much easier is the calculation of the conditional probabilities of state h given the state v and conditional probabilities of state v given the state h... .....and so on. the essential is here, energy-based probability
+
+Reconstruction is different from regression or classification in that it estimates the probability distribution of the original input instead of associating a continuous/discrete value to an input example.
 
 
 ![v9](https://user-images.githubusercontent.com/58679469/150686429-1e6be85d-d9fc-4d70-8b89-55f7433b1748.png)
+
+Bayesian networks are directed acyclic graphs (DAGs) whose nodes represent variables in the Bayesian sense: they may be observable quantities, latent variables, unknown parameters or hypotheses. Edges represent conditional dependencies; nodes that are not connected (no path connects one node to another) represent variables that are conditionally independent of each other. Each node is associated with a probability function that takes, as input, a particular set of values for the node's parent variables, and gives (as output) the probability (or probability distribution, if applicable) of the variable represented by the node.
+
+Probabilistic graphical model that represents a set of variables and their conditional dependencies via a directed acyclic graph (DAG)
+
+Mostly this part is getting attraction in DL
+
+Gibbs sampling is applicable when the joint distribution is not known explicitly or is difficult to sample from directly, but the conditional distribution of each variable is known and is easy (or at least, easier) to sample from.  The Gibbs sampling algorithm generates an instance from the distribution of each variable in turn, conditional on the current values of the other variable. Gibbs sampling is particularly well-adapted to sampling the posterior distribution of a Bayesian network, since Bayesian networks are typically specified as a collection of conditional distributions.  Given an input vector v we are using p(h|v)  for prediction of the hidden values h. Knowing the hidden values we use p(v|h)for prediction of new input values v. This process is repeated k times. After k iterations we obtain an other input vector v_k which was recreated from original input values v_0
+
 
 # 5. Sanshi Assistant Design
 
