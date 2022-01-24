@@ -360,13 +360,13 @@ The main reason for this is complexity in the identification and assigning of va
 
 # 8. Sanshi Assistant Design
 
-## 8.1 Wake up Sanshi
-  ### 8.1.1 Use Text to Wake up Sanshi
+## 8.1 Wake up Kanshi
+  ### 8.1.1 Use Text to Wake up Kanshi
   
    - Design Wake Word Listener
    - Design Wake Word Model  
   
-  ### 8.1.2 Use Voice to Wake up Sanshi
+  ### 8.1.2 Use Voice to Wake up Kanshi
   
    
    - Use Speech Recognition  to get Text
@@ -374,7 +374,7 @@ The main reason for this is complexity in the identification and assigning of va
    - Use NLP for Dialog Flow
    - use Speech Synthesis to displaay message to user.
    
-## 8.2   Dialog Skill for Sanshi
+## 8.2   Dialog Skill for Kanshi
 
 
  ### 8.2.1 Indents design
@@ -388,20 +388,20 @@ The main reason for this is complexity in the identification and assigning of va
 
 
 
-## 8.3  Search  Skill for Sanshi
+## 8.3  Search  Skill for Kanshi
 
 
 
 [![](https://mermaid.ink/img/eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG5TYW5zaGktPj4gQ0VPOiBIZWxsbyBSZWRkeSwgaG93IGFyZSB5b3U_XG5sb29wIEhlYWx0aGNoZWNrXG4gICAgQ0VPLT4-Q0VPOiBGaWdodCBhZ2FpbnN0IGh5cG9jaG9uZHJpYVxuZW5kXG5Ob3RlIHJpZ2h0IG9mICBDRU86IFJhdGlvbmFsIHRob3VnaHRzIVxuQ0VPLS0-PkhSOiBHcmVhdCFcbkNFTy0-PiBQdXNwaGE6IEhvdyBhYm91dCB5b3U_XG5QdXNwaGEtLT4-Q0VPOiBKb2xseSBnb29kISIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6ZmFsc2UsImF1dG9TeW5jIjp0cnVlLCJ1cGRhdGVEaWFncmFtIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/edit#eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG5TYW5zaGktPj4gQ0VPOiBIZWxsbyBSZWRkeSwgaG93IGFyZSB5b3U_XG5sb29wIEhlYWx0aGNoZWNrXG4gICAgQ0VPLT4-Q0VPOiBGaWdodCBhZ2FpbnN0IGh5cG9jaG9uZHJpYVxuZW5kXG5Ob3RlIHJpZ2h0IG9mICBDRU86IFJhdGlvbmFsIHRob3VnaHRzIVxuQ0VPLS0-PkhSOiBHcmVhdCFcbkNFTy0-PiBQdXNwaGE6IEhvdyBhYm91dCB5b3U_XG5QdXNwaGEtLT4-Q0VPOiBKb2xseSBnb29kISIsIm1lcm1haWQiOiJ7XG4gIFwidGhlbWVcIjogXCJkZWZhdWx0XCJcbn0iLCJ1cGRhdGVFZGl0b3IiOmZhbHNlLCJhdXRvU3luYyI6dHJ1ZSwidXBkYXRlRGlhZ3JhbSI6ZmFsc2V9)
 
-# 9. Sanshi Assistant Development 
+# 9. Kanshi Assistant Development 
 
 
 
 
 
 
-# 10. Sanshi Assistant Deployment
+# 10. Kanshi Assistant Deployment
 
 
 
