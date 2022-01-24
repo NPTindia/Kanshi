@@ -8,12 +8,12 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
  <div style="text-align: center; id="content">
     <h4> IP  network to Neaural network</h4>
     <img src="https://user-images.githubusercontent.com/58679469/150729053-6a1deae5-f6a2-46e0-bac0-7dd676c96e04.png" width="300" height="252" />
-   <img src="https://user-images.githubusercontent.com/58679469/150728889-8eb74247-8fc9-4691-96a6-9899583756f0.png" width="300" height="252" /> 
+   <img src="https://user-images.githubusercontent.com/58679469/150728889-8eb74247-8fc9-4691-96a6-9899583756f0.png" width="300" height="192" /> 
 </div>
 
  
 
-
+ <div style="text-align: center; id="content">
  <p> 
  There have been events in which unwanted and harmful IP packets are used  to perform certain act in a remote machine.  Thus, there is a need to stop such IP packets in a given enterprise network and provide safety  to users of the internet in their enterprise. Volume of IP packets travels in a given enterprise network requires a huge amount of computing power to monitor IP packets and safeguard their user application. 
  
@@ -21,6 +21,8 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
 
  Autonomous monitoring systems require “capturing IP packets “ in neal time and infer safety level of enterprise network,  Digital Assistant with AI provides a method to monitor a given enterprise IP network. 
 </p>
+ 
+ </div>
 
 ![vv4](https://user-images.githubusercontent.com/58679469/150686392-ab116404-3be5-4d41-b347-e30a8ebe09d3.png)
 
