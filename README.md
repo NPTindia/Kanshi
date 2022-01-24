@@ -339,55 +339,13 @@ The main reason for this is complexity in the identification and assigning of va
 
 ![NetworkSecurityLab](https://user-images.githubusercontent.com/58679469/150686458-0f1f0f10-84d9-4580-a694-15644f2064ec.jpg)
 
- 
-# 6. Sanshi Assistant Design
 
-## 6.1 Wake up Sanshi
-  ### 6.1.1 Use Text to Wake up Sanshi
-  
-   - Design Wake Word Listener
-   - Design Wake Word Model  
-  
-  ### 6.1.2 Use Voice to Wake up Sanshi
-  
-   
-   - Use Speech Recognition  to get Text
-   - Use Tect handle Dialog Flow
-   - Use NLP for Dialog Flow
-   - use Speech Synthesis to displaay message to user.
-   
-## 6.2  Design Dialog Skill for Sanshi
-
-
- ### 6.2.1 Indents design
- 
- ### 6.2.2 Entities  design
- 
-  ### 6.2.2 Dialog   design
-
-
-
-
-
-
-## 6.3  Design  Search  Skill for Sanshi
-
-
-
-
-`[![](https://mermaid.ink/img/eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG5BbGljZS0-PkpvaG46IEhlbGxvIEpvaG4sIGhvdyBhcmUgeW91P1xubG9vcCBIZWFsdGhjaGVja1xuICAgIEpvaG4tPj5Kb2huOiBGaWdodCBhZ2FpbnN0IGh5cG9jaG9uZHJpYVxuZW5kXG5Ob3RlIHJpZ2h0IG9mIEpvaG46IFJhdGlvbmFsIHRob3VnaHRzIVxuSm9obi0tPj5BbGljZTogR3JlYXQhXG5Kb2huLT4-Qm9iOiBIb3cgYWJvdXQgeW91P1xuQm9iLS0-PkpvaG46IEpvbGx5IGdvb2QhIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjp0cnVlLCJhdXRvU3luYyI6dHJ1ZSwidXBkYXRlRGlhZ3JhbSI6dHJ1ZX0)](https://mermaid-js.github.io/mermaid-live-editor/edit#eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG5BbGljZS0-PkpvaG46IEhlbGxvIEpvaG4sIGhvdyBhcmUgeW91P1xubG9vcCBIZWFsdGhjaGVja1xuICAgIEpvaG4tPj5Kb2huOiBGaWdodCBhZ2FpbnN0IGh5cG9jaG9uZHJpYVxuZW5kXG5Ob3RlIHJpZ2h0IG9mIEpvaG46IFJhdGlvbmFsIHRob3VnaHRzIVxuSm9obi0tPj5BbGljZTogR3JlYXQhXG5Kb2huLT4-Qm9iOiBIb3cgYWJvdXQgeW91P1xuQm9iLS0-PkpvaG46IEpvbGx5IGdvb2QhIiwibWVybWFpZCI6IntcbiAgXCJ0aGVtZVwiOiBcImRlZmF1bHRcIlxufSIsInVwZGF0ZUVkaXRvciI6dHJ1ZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOnRydWV9)
-
-# 7. Sanshi Assistant Development 
-
-![NetworkSecurityLab(1)](https://user-images.githubusercontent.com/58679469/150686463-becf05b1-cd0e-4d4c-868e-d07a55f7f4f2.jpg)
-
-
+# 6. Train Deep Learning Model
 
 ![NetworkSecurityLab(4)](https://user-images.githubusercontent.com/58679469/150686584-18f43ef8-22f9-4664-8c13-a7345a1b0000.jpg)
 
-# 8. Sanshi Assistant Deployment
 
-
+# 7. Inference Service by using  Deep Learning Model
 
 <div align="justify"> 
 <p> Training platform is different from deployment platform. Same provides obstruction to carry trained network in to limited capability deployment edge. Mostly there is a need to cut down Model size or optimise weights of each node in Model. This mentioned optimisation of Model size of node weight may not be there if deployment happens in cloud side of infrastructure.   </p>
@@ -396,8 +354,60 @@ The main reason for this is complexity in the identification and assigning of va
 [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/inference/flask-micro-service)
 
 
+# 8. Sanshi Assistant Design
 
-# 9. Reference 
+## 8.1 Wake up Sanshi
+  ### 8.1.1 Use Text to Wake up Sanshi
+  
+   - Design Wake Word Listener
+   - Design Wake Word Model  
+  
+  ### 8.1.2 Use Voice to Wake up Sanshi
+  
+   
+   - Use Speech Recognition  to get Text
+   - Use Tect handle Dialog Flow
+   - Use NLP for Dialog Flow
+   - use Speech Synthesis to displaay message to user.
+   
+## 8.2   Dialog Skill for Sanshi
+
+
+ ### 8.2.1 Indents design
+ 
+ ### 8.2.2 Entities  design
+ 
+  ### 8.2.2 Dialog   design
+
+
+
+
+
+
+## 8.3  Search  Skill for Sanshi
+
+
+
+
+`[![](https://mermaid.ink/img/eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG5BbGljZS0-PkpvaG46IEhlbGxvIEpvaG4sIGhvdyBhcmUgeW91P1xubG9vcCBIZWFsdGhjaGVja1xuICAgIEpvaG4tPj5Kb2huOiBGaWdodCBhZ2FpbnN0IGh5cG9jaG9uZHJpYVxuZW5kXG5Ob3RlIHJpZ2h0IG9mIEpvaG46IFJhdGlvbmFsIHRob3VnaHRzIVxuSm9obi0tPj5BbGljZTogR3JlYXQhXG5Kb2huLT4-Qm9iOiBIb3cgYWJvdXQgeW91P1xuQm9iLS0-PkpvaG46IEpvbGx5IGdvb2QhIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjp0cnVlLCJhdXRvU3luYyI6dHJ1ZSwidXBkYXRlRGlhZ3JhbSI6dHJ1ZX0)](https://mermaid-js.github.io/mermaid-live-editor/edit#eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG5BbGljZS0-PkpvaG46IEhlbGxvIEpvaG4sIGhvdyBhcmUgeW91P1xubG9vcCBIZWFsdGhjaGVja1xuICAgIEpvaG4tPj5Kb2huOiBGaWdodCBhZ2FpbnN0IGh5cG9jaG9uZHJpYVxuZW5kXG5Ob3RlIHJpZ2h0IG9mIEpvaG46IFJhdGlvbmFsIHRob3VnaHRzIVxuSm9obi0tPj5BbGljZTogR3JlYXQhXG5Kb2huLT4-Qm9iOiBIb3cgYWJvdXQgeW91P1xuQm9iLS0-PkpvaG46IEpvbGx5IGdvb2QhIiwibWVybWFpZCI6IntcbiAgXCJ0aGVtZVwiOiBcImRlZmF1bHRcIlxufSIsInVwZGF0ZUVkaXRvciI6dHJ1ZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOnRydWV9)
+
+# 9. Sanshi Assistant Development 
+
+![NetworkSecurityLab(1)](https://user-images.githubusercontent.com/58679469/150686463-becf05b1-cd0e-4d4c-868e-d07a55f7f4f2.jpg)
+
+
+
+
+
+# 10. Sanshi Assistant Deployment
+
+
+
+
+
+
+
+# 11. Reference 
 
 1. https://cloud.ibm.com/registration?target=/developer/watson/launch-tool/conversation&hideTours=true&cm_sp=WatsonPlatform-WatsonPlatform-_-OnPageNavCTA-IBMWatson_Conversation-_-Watson_Developer_Website&cm_mmca1=000027BD 
 2.  ..
