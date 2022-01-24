@@ -102,13 +102,11 @@ The new Watson Assistant experience, focused on using actions to build customer 
  
 
 
+![image]()
 
-
-
-### 3.2.1 TAP
-<div align="justify"> 
-<p> TAP devices provide a way to access the data flowing across a computer network, typically for the benefit of network security and performance monitoring tools. The monitored traffic is referred to as the “pass-through” traffic and the ports used for monitoring are called “monitor ports.” For a greater visibility into the network, a TAP can be placed between the router and the switch.  </p>
- </div>
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/58679469/150741981-27a75244-e6e8-43a7-b07e-4e32982f2c99.png">
+</p>
 
 
 
