@@ -98,7 +98,7 @@ QRadar analyzes your flow data for applications, flow direction, and superflows.
 IBM Security QRadar flows represent network activity by normalizing IP addresses, ports, byte and packet counts, and other data, into flow records, which are records of network sessions between two hosts. Flows are a differentiating component in QRadar that provide detailed visibility into your network traffic.
 
 
-# 4. Mathematicaal Model 
+# 4. Mathematical Model 
 
 
 
