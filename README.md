@@ -5,15 +5,15 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
 
  The Internet is designed to carry data by using IP packets across the network and deliver,  as per destination given its header segment. Challenge is to monitor above mentioned IP packets in a given enterprise  network and permit the same IP packet to travel to a defined destination mahine. IP packets have few variations such as TCP, UDP and ICMP.  Moreover, mentioned IP packets need  to use PORTs in a given Machine to deliver.  
  
- <div style="text-align: center; id="content">
+ <div  id="content">
     <h4> IP  network to Neaural network</h4>
-    <img src="https://user-images.githubusercontent.com/58679469/150729053-6a1deae5-f6a2-46e0-bac0-7dd676c96e04.png" width="300" height="252" />
-   <img src="https://user-images.githubusercontent.com/58679469/150728889-8eb74247-8fc9-4691-96a6-9899583756f0.png" width="300" height="192" /> 
+    <img src="https://user-images.githubusercontent.com/58679469/150729053-6a1deae5-f6a2-46e0-bac0-7dd676c96e04.png" width="300" height="252" class="center" />
+   <img src="https://user-images.githubusercontent.com/58679469/150728889-8eb74247-8fc9-4691-96a6-9899583756f0.png" width="300" height="192" class="center" /> 
 </div>
 
  
 
- <div style="text-align: center; id="content">
+ <div  id="content">
  <p> 
  There have been events in which unwanted and harmful IP packets are used  to perform certain act in a remote machine.  Thus, there is a need to stop such IP packets in a given enterprise network and provide safety  to users of the internet in their enterprise. Volume of IP packets travels in a given enterprise network requires a huge amount of computing power to monitor IP packets and safeguard their user application. 
  
