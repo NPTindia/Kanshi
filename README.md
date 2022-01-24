@@ -47,17 +47,7 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
 </body>
 </html>
  
-  <div class="row">
-  <div class="column">
-    <img src="https://user-images.githubusercontent.com/58679469/150729053-6a1deae5-f6a2-46e0-bac0-7dd676c96e04.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://user-images.githubusercontent.com/58679469/150728889-8eb74247-8fc9-4691-96a6-9899583756f0.png" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://user-images.githubusercontent.com/58679469/150728889-8eb74247-8fc9-4691-96a6-9899583756f0.png" alt="Mountains" style="width:100%">
-  </div>
-</div> 
+  
 
 
  <div  id="content">
