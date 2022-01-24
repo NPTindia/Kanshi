@@ -102,8 +102,6 @@ The new Watson Assistant experience, focused on using actions to build customer 
  
 
 
-![image]()
-
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/58679469/150741981-27a75244-e6e8-43a7-b07e-4e32982f2c99.png">
 </p>
