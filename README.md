@@ -211,7 +211,11 @@ This is a restricted Boltzmann machine.
 
 Restricted Boltzmann Machines are probabilistic. As opposed to assigning discrete values the model assigns probabilities. At each point in time the RBM is in a certain state. The state refers to the values of neurons in the visible and hidden layers v and h.
 
-<img align="center" width="400" height="300" src="https://user-images.githubusercontent.com/58679469/150721809-68974f08-992c-4a26-ae39-67401350a75a.png">
+
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/58679469/150721809-68974f08-992c-4a26-ae39-67401350a75a.pn">
+</p>
 
 
 ![image](https://user-images.githubusercontent.com/58679469/150721809-68974f08-992c-4a26-ae39-67401350a75a.png)
