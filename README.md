@@ -214,7 +214,7 @@ Restricted Boltzmann Machines are probabilistic. As opposed to assigning discret
 
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/58679469/150721809-68974f08-992c-4a26-ae39-67401350a75a.pn">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/58679469/150721809-68974f08-992c-4a26-ae39-67401350a75a.png">
 </p>
 
 
