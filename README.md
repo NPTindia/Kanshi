@@ -119,7 +119,18 @@ The new Watson Assistant experience, focused on using actions to build customer 
  </div>
 
 
-## 3.3 QRadar for Flow Collection
+## 3.3 Softwaare for Flow Collection
+
+###  3.3.1 Wireshark 
+
+###  3.3.2 tcpdump 
+
+###  3.3.3 Firesheep
+
+###  3.3.4  Scapy
+
+###  3.3.5  QRadar
+
 <div align="justify"> 
 <p> IBM® QRadar® Network Insights 1940-C (MTM 4654-F7G) appliance provides detailed analysis of network flows to extend the threat detection capabilities of IBM QRadar. QRadar Network Insights 1940-C is based on the Dell R740xd XL server </p>
  </div>
