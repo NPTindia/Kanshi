@@ -337,15 +337,10 @@ The main reason for this is complexity in the identification and assigning of va
 
 ![NetworkSecurityLab](https://user-images.githubusercontent.com/58679469/150686458-0f1f0f10-84d9-4580-a694-15644f2064ec.jpg)
 
-<body>
-    Here is a mermaid diagram:
-    <div class="mermaid">
-        graph TD 
-        A[Client] --> B[Load Balancer] 
-        B --> C[Server01] 
-        B --> D[Server02]
-    </div>
-</body>
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    Alice-)John: See you later!
 
 # 6. Sanshi Assistant Development 
 
