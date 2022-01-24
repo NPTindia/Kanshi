@@ -167,6 +167,27 @@ Mostly this part is getting attraction in DL
 
 Gibbs sampling is applicable when the joint distribution is not known explicitly or is difficult to sample from directly, but the conditional distribution of each variable is known and is easy (or at least, easier) to sample from.  The Gibbs sampling algorithm generates an instance from the distribution of each variable in turn, conditional on the current values of the other variable. Gibbs sampling is particularly well-adapted to sampling the posterior distribution of a Bayesian network, since Bayesian networks are typically specified as a collection of conditional distributions.  Given an input vector v we are using p(h|v)  for prediction of the hidden values h. Knowing the hidden values we use p(v|h)for prediction of new input values v. This process is repeated k times. After k iterations we obtain an other input vector v_k which was recreated from original input values v_0
 
+ ## 4.1  Quantitative Risk assessment 
+ 
+ This can be measured as the direct cost of the risk and indirect cost of the risk
+ Mathematical representation of the risk in statistical terms gets very complex and is beyond the present scope of the paper. When using quantitative risk assessment looks logical, there some drawbacks of this approach in using for information systems. It’s easy to define the cost of the system, but the indirect costs are high, and the recovery cost is high and sometimes unknown. This quantitative risk is described mathematically as Annualized Loss of expectancy (ALE). The expected risk in terms of cost and loss in monetary terms can be expressed as the loss occurred due to risk over a year.
+ALE=SLE* ARO
+SLE (Single Loss Expectancy) is the value of a single loss of the asset. This may or may not be the entire asset. This is the impact of the loss. ARO (Annualized Rate of Occurrence) is how often the loss occurs. 
+
+The quantitative risk assessment for information systems comes with a huge error margin as this method was not designed primarily for information systems in focus. Nowadays, there is a lot of improvement with new data processing and the high availability of data to use complex statistical processes to extrapolate and uncover hidden trends and risks. The statistical process also ensures that the quantitative risk assessment is repeatable and reproducible with the same consistency 
+
+The main reason for this is complexity in the identification and assigning of value to assets and limitations of statistical data, which helps in determining the frequency
+ 
+ ## 4.2  Quantitative Risk assessment 
+ 
+ Assumption in qualitative risk assessment is that there exists a high degree of uncertainty of impact values and likelihood that’s defined. Risk is subjective in terms of issues where the greater the difficulty in qualitative risk is in describing the likelihood and impact values. These values should be standard scaled so that it can be used with consistency across different risk assessment methods Some drawbacks of qualitative risk assessment are harder to communicate the results to management without precise information. Just saying the risk is high or low will not give a better understanding. To improve and overcome this hurdle, a table with impact and likelihood tables and the potential impact will assist the management in better handling the risk.
+
+   ###  4.2.1  Risk Management for Information Security
+    https://www.geeksforgeeks.org/risk-management-for-information-security-set-1/
+    
+   ###  4.2.2  Risk Management for Information Security
+    https://www.geeksforgeeks.org/risk-management-for-information-security-set-2/?ref=lbp 
+ 
 
 # 5. Sanshi Assistant Design
 
