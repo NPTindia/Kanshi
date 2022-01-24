@@ -5,32 +5,12 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
 
  The Internet is designed to carry data by using IP packets across the network and deliver,  as per destination given its header segment. Challenge is to monitor above mentioned IP packets in a given enterprise  network and permit the same IP packet to travel to a defined destination mahine. IP packets have few variations such as TCP, UDP and ICMP.  Moreover, mentioned IP packets need  to use PORTs in a given Machine to deliver.  
  
- <!DOCTYPE html>
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
 
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
 
-<h2>Images Side by Side</h2>
-<p>How to create side-by-side images with the CSS float property:</p>
+
+
+
 
 <div class="row">
   <div class="column">
@@ -44,8 +24,8 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
   </div>
 </div>
 
-</body>
-</html>
+
+
  
   
 
