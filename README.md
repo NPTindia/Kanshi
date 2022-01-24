@@ -123,21 +123,30 @@ The new Watson Assistant experience, focused on using actions to build customer 
 
 ###  3.3.1 Wireshark 
 <div align="justify"> 
-<p>   </p>
-<p>   </p>
+<p>  Wireshark is a network protocol analyzer, or an application that captures packets from a network connection, such as from your computer to your home office or the internet. Packet is the name given to a discrete unit of data in a typical Ethernet network.  </p>
+<p>  Wireshark is the most often-used packet sniffer in the world. Like any other packet sniffer, Packet Capture, Wireshark listens to a network connection in real time and then grabs entire streams of traffic – quite possibly tens of thousands of packets at a tim  </p>
  </div>
  
 ###  3.3.2 tcpdump 
 <div align="justify"> 
-<p>   </p>
-<p>   </p>
+<p> tcpdump is a network analysis tool—combining both power and simplicity into a single command-line interface  </p>
+<p> Tcpdump prints out a description of the contents of packets on a network interface that match the boolean expression specified on the command line. It can also run with the -w flag, which causes it to save the packet data to a file for later analysis, or with the -r flag, which causes it to read from a saved packet file rather than to read packets from a network interface  </p>
  </div>
+ 
+ 
+<p align="center">
+  <img alt="Light" src="https://user-images.githubusercontent.com/58679469/150745873-8bcdfc8e-4c22-47d5-9628-fa5f17fe9559.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://user-images.githubusercontent.com/58679469/150745930-80e5fab3-9e3c-4480-b6c4-61f0ce09141d.png" width="45%">
+</p>
+
+
  
 ###  3.3.3 Firesheep
 
 <div align="justify"> 
-<p>   </p>
-<p>   </p>
+<p>  Firesheep was an extension for the Firefox web browser that used a packet sniffer to intercept unencrypted session cookies from websites such as Facebook and Twitter. </p>
+<p>  he collected identities (victims) are displayed in a side bar in Firefox. By clicking on a victim's name, the victim's session is taken over by the attacker </p>
  </div>
  
 ###  3.3.4  Scapy
