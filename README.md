@@ -338,8 +338,12 @@ The main reason for this is complexity in the identification and assigning of va
 ## 5.1 Wake up Sanshi
   ### 5.1.1 Use Text to Wake up Sanshi
   
+   - Design Wake Word Listener
+   - Design Wake Word Model  
+  
   ### 5.1.1 Use Voice to Wake up Sanshi
   
+   
    - Use Speech Recognition  to get Text
    - Use Tect handle Dialog Flow
    - Use NLP for Dialog Flow
