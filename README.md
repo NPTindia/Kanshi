@@ -182,13 +182,7 @@ The main reason for this is complexity in the identification and assigning of va
  
  Assumption in qualitative risk assessment is that there exists a high degree of uncertainty of impact values and likelihood that’s defined. Risk is subjective in terms of issues where the greater the difficulty in qualitative risk is in describing the likelihood and impact values. These values should be standard scaled so that it can be used with consistency across different risk assessment methods Some drawbacks of qualitative risk assessment are harder to communicate the results to management without precise information. Just saying the risk is high or low will not give a better understanding. To improve and overcome this hurdle, a table with impact and likelihood tables and the potential impact will assist the management in better handling the risk.
 
-   ###  4.2.1  Risk Management for Information Security
-    https://www.geeksforgeeks.org/risk-management-for-information-security-set-1/
-    
-   ###  4.2.2  Risk Management for Information Security
-    https://www.geeksforgeeks.org/risk-management-for-information-security-set-2/?ref=lbp 
  
-
 # 5. Sanshi Assistant Design
 
 ![NetworkSecurityLab](https://user-images.githubusercontent.com/58679469/150686458-0f1f0f10-84d9-4580-a694-15644f2064ec.jpg)
