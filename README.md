@@ -4,7 +4,35 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
 # 1. Introduction
 <div align="justify"> 
 <p> 
- The Internet is designed to carry data by using IP packets across the network and deliver,  as per destination given its header segment. Challenge is to monitor above mentioned IP packets in a given enterprise  network and permit the same IP packet to travel to a defined destination mahine. IP packets have few variations such as TCP, UDP and ICMP.  Moreover, mentioned IP packets need  to use PORTs in a given Machine to deliver.  
+ The Internet is designed to carry data by using IP packets across the network and deliver,  as per destination given its header segment. Challenge is to monitor above mentioned IP packets in a given enterprise  network and permit the same IP packet to travel to a defined destination mahine. 
+ 
+ 
+ <style>
+body {
+  background-color: #5DADE2;
+}
+</style>
+
+<style>
+.borderexample {
+ border-style:solid;
+ border-color:#5DADE2;
+}
+</style>
+
+<left>
+<p class="borderexample">  <font size="+3";font color ="white";>  Escalating actions: Russia has sent more than 100,000 soldiers to the nation's border with Ukraine. While no physical invasion has taken place yet, cyber operations are already underway. Earlier this month, hackers defaced dozens of government websites in Ukraine, a technically simple but attention-grabbing act that generated global headlines. More quietly, they also placed destructive malware inside Ukrainian government agencies. It’s not clear yet who is responsible, but Russia is the leading suspect.*MIT Technology Review  01.24.22
+     </font>      <font size="+2";font color ="white";>    </font> </p>
+</left>
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ IP packets have few variations such as TCP, UDP and ICMP.  Moreover, mentioned IP packets need  to use PORTs in a given Machine to deliver.  
  </p>
  </div>
  
