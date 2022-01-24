@@ -95,35 +95,47 @@ The new Watson Assistant experience, focused on using actions to build customer 
 
 ## 3.2 Hardwaare for Flow Collection 
 
-Flow collection requires custom made hardware and associated software such that near real time Packet capture cam be carried out.   IBM Security QRadar Network Packet Capture (MTM 4412-F2C) offers an optional IBM Security QRadar  Packet Capture appliance to store and manage data that is used by QRadar Incident Forensics when no other network packet capture (PCAP) device is deployed. Any number of these appliances can be installed as a tap on a network or sub-network to collect the raw packet data.
+<div align="justify"> 
+<p>  Flow collection requires custom made hardware and associated software such that near real time Packet capture cam be carried out.   IBM Security QRadar Network Packet Capture (MTM 4412-F2C) offers an optional IBM Security QRadar  Packet Capture appliance to store and manage data that is used by QRadar Incident Forensics when no other network packet capture (PCAP) device is deployed. Any number of these appliances can be installed as a tap on a network or sub-network to collect the raw packet data. </p>
+ <p> QRadar® Network Insights appliances connect to network TAPs, SPAN, or mirror ports to access full packet data for real-time analysis. All QRadar Network Insights appliances provide detailed analysis of network flows to extend the threat detection capabilities of QRadar.  </p>
+ </div>
+ 
 
-QRadar® Network Insights appliances connect to network TAPs, SPAN, or mirror ports to access full packet data for real-time analysis. All QRadar Network Insights appliances provide detailed analysis of network flows to extend the threat detection capabilities of QRadar.
+
+
 
 
 ### 3.2.1 TAP
-TAP devices provide a way to access the data flowing across a computer network, typically for the benefit of network security and performance monitoring tools. The monitored traffic is referred to as the “pass-through” traffic and the ports used for monitoring are called “monitor ports.” For a greater visibility into the network, a TAP can be placed between the router and the switch.
+<div align="justify"> 
+<p> TAP devices provide a way to access the data flowing across a computer network, typically for the benefit of network security and performance monitoring tools. The monitored traffic is referred to as the “pass-through” traffic and the ports used for monitoring are called “monitor ports.” For a greater visibility into the network, a TAP can be placed between the router and the switch.  </p>
+ </div>
+
 
 
 
 ### 3.2.1 SPAN
-Port mirroring, also known as SPAN or roving analysis, is a method of monitoring network traffic that forwards a copy of each incoming and/or outgoing packet from one or more port (or VLAN) of a switch to another port where the network traffic analyzer is connected. SPAN is often used on simpler systems to monitor multiple stations at once
+<div align="justify"> 
+<p> Port mirroring, also known as SPAN or roving analysis, is a method of monitoring network traffic that forwards a copy of each incoming and/or outgoing packet from one or more port (or VLAN) of a switch to another port where the network traffic analyzer is connected. SPAN is often used on simpler systems to monitor multiple stations at once  </p>
+ </div>
+
 
 ## 3.3 QRadar for Flow Collection
+<div align="justify"> 
+<p> IBM® QRadar® Network Insights 1940-C (MTM 4654-F7G) appliance provides detailed analysis of network flows to extend the threat detection capabilities of IBM QRadar. QRadar Network Insights 1940-C is based on the Dell R740xd XL server </p>
+ </div>
 
-IBM® QRadar® Network Insights 1940-C (MTM 4654-F7G) appliance provides detailed analysis of network flows to extend the threat detection capabilities of IBM QRadar. QRadar Network Insights 1940-C is based on the Dell R740xd XL server
 
 
 
 ![v7](https://user-images.githubusercontent.com/58679469/150686420-3b85e3df-344a-4cc8-923a-427ebbfc8b3e.png)
 
 
-Berkeley Packet Filters (BPF) provide a powerful tool for intrusion detection analysis. Use BPF filtering to quickly reduce large packet captures to a reduced set of results by filtering based on a specific type of traffic. Both admin and non-admin users can create BPF filters
-
-Build complex filter expressions by using modifiers and operators to combine protocols with primitive BPF filters
-
-
-
-QRadar collects network activity information, or what is referred to as "flow records".  Flows represent network activity by normalizing IP addresses, ports, byte and packet counts, as well as other details, into "flows", which effectively represent a session between two hosts. QRadar can collect different types of flows, which differ greatly in the collected details. In this video series, we explain and demonstrate the differences between the following network flow capture mechanisms:
+<div align="justify"> 
+<p>  Berkeley Packet Filters (BPF) provide a powerful tool for intrusion detection analysis. Use BPF filtering to quickly reduce large packet captures to a reduced set of results by filtering based on a specific type of traffic. Both admin and non-admin users can create BPF filters </p>
+<p> Build complex filter expressions by using modifiers and operators to combine protocols with primitive BPF filters  </p>
+ <p> QRadar collects network activity information, or what is referred to as "flow records".  Flows represent network activity by normalizing IP addresses, ports, byte and packet counts, as well as other details, into "flows", which effectively represent a session between two hosts. QRadar can collect different types of flows, which differ greatly in the collected details. In this video series, we explain and demonstrate the differences between the following network flow capture mechanisms:  </p>
+ </div>
+ 
 
 <ul>
   <li> Cisco Netflow </li>
@@ -131,11 +143,18 @@ QRadar collects network activity information, or what is referred to as "flow re
    <li> QRadar Network Insights (QNI)  </li>
 </ul>
 
-Difference between QRadar events and flows??,  packet header and payload: which information is available in the header and packet, and which technologies to use to investigate header and payload information.
 
-QRadar analyzes your flow data for applications, flow direction, and superflows. You also learn how to build a QRadar flow rule, and how to perform flow searches in QRadar.
+<div align="justify"> 
+<p> Difference between QRadar events and flows??,  packet header and payload: which information is available in the header and packet, and which technologies to use to investigate header and payload information.  </p>
+<p>  
+QRadar analyzes your flow data for applications, flow direction, and superflows. You also learn how to build a QRadar flow rule, and how to perform flow searches in QRadar. </p>
+ <p> IBM Security QRadar flows represent network activity by normalizing IP addresses, ports, byte and packet counts, and other data, into flow records, which are records of network sessions between two hosts. Flows are a differentiating component in QRadar that provide detailed visibility into your network traffic.
+  </p>
+ </div>
+ 
 
-IBM Security QRadar flows represent network activity by normalizing IP addresses, ports, byte and packet counts, and other data, into flow records, which are records of network sessions between two hosts. Flows are a differentiating component in QRadar that provide detailed visibility into your network traffic.
+
+
 
 
 # 4. Mathematical Model 
@@ -161,25 +180,28 @@ Measured state is Captured Flow
 
 Find out  this state is part of normal state or something new, in case new, then this abnormal detection need to be notified to concerned subscribers.
 
-Measurements of any kind, in any experiment, are always subject to uncertainties or errors, as they are  more often called. Measurement process is, in fact, a random process described by an abstract probability distribution whose parameters contain the information  desired. The results of a measurement are then samples from this distribution which allow an estimate of the theoretical parameters. In this view, measurement errors can be seen then as sampling errors.
+<div align="justify"> 
+<p> Measurements of any kind, in any experiment, are always subject to uncertainties or errors, as they are  more often called. Measurement process is, in fact, a random process described by an abstract probability distribution whose parameters contain the information  desired. The results of a measurement are then samples from this distribution which allow an estimate of the theoretical parameters. In this view, measurement errors can be seen then as sampling errors.
+  </p>
+ </div>
 
 
 ![image](https://user-images.githubusercontent.com/58679469/150721619-b67ae977-e55d-4f39-994c-c60d87382577.png)
 
 
-Probability mass function (PMF) is a function that gives the probability that a discrete random variable is exactly equal to some value
-
-A probability mass function differs from a probability density function (PDF) in that the latter is associated with continuous rather than discrete random variables. A PDF must be integrated over an interval to yield a probability.
-
-The probability distribution of a random variable is a function that takes the sample space as input and returns probabilities: in other words, it maps possible outcomes to their probabilities.
-
-"Posterior", in this context, means after taking into account the relevant evidence related to the particular case being examined. The posterior probability distribution is the probability distribution of an unknown quantity, treated as a random variable, conditional on the evidence obtained from an experiment or survey
-
-
-
-Poisson sampling is a sampling process where each element of the population is subjected to an independent Bernoulli trial which determines whether the element becomes part of the sample
-
-Poisson distribution expresses the probability of a given number of events occurring in a fixed interval of time 
+<div align="justify"> 
+<p>  Probability mass function (PMF) is a function that gives the probability that a discrete random variable is exactly equal to some value </p>
+<p> A probability mass function differs from a probability density function (PDF) in that the latter is associated with continuous rather than discrete random variables. A PDF must be integrated over an interval to yield a probability.
+  </p>
+ <p>  
+The probability distribution of a random variable is a function that takes the sample space as input and returns probabilities: in other words, it maps possible outcomes to their probabilities. </p>
+<p>  "Posterior", in this context, means after taking into account the relevant evidence related to the particular case being examined. The posterior probability distribution is the probability distribution of an unknown quantity, treated as a random variable, conditional on the evidence obtained from an experiment or survey
+ </p>
+ <p> 
+Poisson sampling is a sampling process where each element of the population is subjected to an independent Bernoulli trial which determines whether the element becomes part of the sample  </p>
+<p> Poisson distribution expresses the probability of a given number of events occurring in a fixed interval of time   </p>
+ </div>
+ 
 
 ![image](https://user-images.githubusercontent.com/58679469/150721702-1f34218d-a4ac-49cc-83d7-3802fb65dbc7.png)
 
@@ -192,35 +214,57 @@ Restricted Boltzmann Machines are probabilistic. As opposed to assigning discret
 ![image](https://user-images.githubusercontent.com/58679469/150721809-68974f08-992c-4a26-ae39-67401350a75a.png)
 
 
-This is the point where Restricted Boltzmann Machines meets Physics for the second time. The joint distribution is known in Physics as the Boltzmann Distribution which gives the probability that a particle can be observed in the state with the energy E. As in Physics we assign a probability to observe a state of v and h, that depends on the overall energy of the model. Unfortunately it is very difficult to calculate the joint probability due to the huge number of possible combination of v and h in the partition function Z. Much easier is the calculation of the conditional probabilities of state h given the state v and conditional probabilities of state v given the state h... .....and so on. the essential is here, energy-based probability
+<div align="justify"> 
+<p> This is the point where Restricted Boltzmann Machines meets Physics for the second time. The joint distribution is known in Physics as the Boltzmann Distribution which gives the probability that a particle can be observed in the state with the energy E. As in Physics we assign a probability to observe a state of v and h, that depends on the overall energy of the model. Unfortunately it is very difficult to calculate the joint probability due to the huge number of possible combination of v and h in the partition function Z. Much easier is the calculation of the conditional probabilities of state h given the state v and conditional probabilities of state v given the state h... .....and so on. the essential is here, energy-based probability  </p>
+<p> 
+Reconstruction is different from regression or classification in that it estimates the probability distribution of the original input instead of associating a continuous/discrete value to an input example.  </p>
+ </div>
 
-Reconstruction is different from regression or classification in that it estimates the probability distribution of the original input instead of associating a continuous/discrete value to an input example.
+
+
+
 
 
 ![v9](https://user-images.githubusercontent.com/58679469/150686429-1e6be85d-d9fc-4d70-8b89-55f7433b1748.png)
 
-Bayesian networks are directed acyclic graphs (DAGs) whose nodes represent variables in the Bayesian sense: they may be observable quantities, latent variables, unknown parameters or hypotheses. Edges represent conditional dependencies; nodes that are not connected (no path connects one node to another) represent variables that are conditionally independent of each other. Each node is associated with a probability function that takes, as input, a particular set of values for the node's parent variables, and gives (as output) the probability (or probability distribution, if applicable) of the variable represented by the node.
 
-Probabilistic graphical model that represents a set of variables and their conditional dependencies via a directed acyclic graph (DAG)
+<div align="justify"> 
+<p>  Bayesian networks are directed acyclic graphs (DAGs) whose nodes represent variables in the Bayesian sense: they may be observable quantities, latent variables, unknown parameters or hypotheses. Edges represent conditional dependencies; nodes that are not connected (no path connects one node to another) represent variables that are conditionally independent of each other. Each node is associated with a probability function that takes, as input, a particular set of values for the node's parent variables, and gives (as output) the probability (or probability distribution, if applicable) of the variable represented by the node. </p>
+<p> Probabilistic graphical model that represents a set of variables and their conditional dependencies via a directed acyclic graph (DAG)  </p>
+ <p> Mostly this part is getting attraction in DL  </p>
+<p> Gibbs sampling is applicable when the joint distribution is not known explicitly or is difficult to sample from directly, but the conditional distribution of each variable is known and is easy (or at least, easier) to sample from.  The Gibbs sampling algorithm generates an instance from the distribution of each variable in turn, conditional on the current values of the other variable. Gibbs sampling is particularly well-adapted to sampling the posterior distribution of a Bayesian network, since Bayesian networks are typically specified as a collection of conditional distributions.  Given an input vector v we are using p(h|v)  for prediction of the hidden values h. Knowing the hidden values we use p(v|h)for prediction of new input values v. This process is repeated k times. After k iterations we obtain an other input vector v_k which was recreated from original input values v_0  </p>
+ </div>
 
-Mostly this part is getting attraction in DL
 
-Gibbs sampling is applicable when the joint distribution is not known explicitly or is difficult to sample from directly, but the conditional distribution of each variable is known and is easy (or at least, easier) to sample from.  The Gibbs sampling algorithm generates an instance from the distribution of each variable in turn, conditional on the current values of the other variable. Gibbs sampling is particularly well-adapted to sampling the posterior distribution of a Bayesian network, since Bayesian networks are typically specified as a collection of conditional distributions.  Given an input vector v we are using p(h|v)  for prediction of the hidden values h. Knowing the hidden values we use p(v|h)for prediction of new input values v. This process is repeated k times. After k iterations we obtain an other input vector v_k which was recreated from original input values v_0
+
+
+
+
+
 
  ## 4.1  Quantitative Risk assessment 
- 
- This can be measured as the direct cost of the risk and indirect cost of the risk
+
+<div align="justify"> 
+<p>  This can be measured as the direct cost of the risk and indirect cost of the risk
  Mathematical representation of the risk in statistical terms gets very complex and is beyond the present scope of the paper. When using quantitative risk assessment looks logical, there some drawbacks of this approach in using for information systems. It’s easy to define the cost of the system, but the indirect costs are high, and the recovery cost is high and sometimes unknown. This quantitative risk is described mathematically as Annualized Loss of expectancy (ALE). The expected risk in terms of cost and loss in monetary terms can be expressed as the loss occurred due to risk over a year.
 ALE=SLE* ARO
-SLE (Single Loss Expectancy) is the value of a single loss of the asset. This may or may not be the entire asset. This is the impact of the loss. ARO (Annualized Rate of Occurrence) is how often the loss occurs. 
+SLE (Single Loss Expectancy) is the value of a single loss of the asset. This may or may not be the entire asset. This is the impact of the loss. ARO (Annualized Rate of Occurrence) is how often the loss occurs.   </p>
+<p>  The quantitative risk assessment for information systems comes with a huge error margin as this method was not designed primarily for information systems in focus. Nowadays, there is a lot of improvement with new data processing and the high availability of data to use complex statistical processes to extrapolate and uncover hidden trends and risks. The statistical process also ensures that the quantitative risk assessment is repeatable and reproducible with the same consistency  </p>
+ <p> 
+The main reason for this is complexity in the identification and assigning of value to assets and limitations of statistical data, which helps in determining the frequency  </p>
+ </div>
 
-The quantitative risk assessment for information systems comes with a huge error margin as this method was not designed primarily for information systems in focus. Nowadays, there is a lot of improvement with new data processing and the high availability of data to use complex statistical processes to extrapolate and uncover hidden trends and risks. The statistical process also ensures that the quantitative risk assessment is repeatable and reproducible with the same consistency 
 
-The main reason for this is complexity in the identification and assigning of value to assets and limitations of statistical data, which helps in determining the frequency
+
+
+
  
  ## 4.2  Quantitative Risk assessment 
- 
- Assumption in qualitative risk assessment is that there exists a high degree of uncertainty of impact values and likelihood that’s defined. Risk is subjective in terms of issues where the greater the difficulty in qualitative risk is in describing the likelihood and impact values. These values should be standard scaled so that it can be used with consistency across different risk assessment methods Some drawbacks of qualitative risk assessment are harder to communicate the results to management without precise information. Just saying the risk is high or low will not give a better understanding. To improve and overcome this hurdle, a table with impact and likelihood tables and the potential impact will assist the management in better handling the risk.
+ <div align="justify"> 
+<p>  Assumption in qualitative risk assessment is that there exists a high degree of uncertainty of impact values and likelihood that’s defined. Risk is subjective in terms of issues where the greater the difficulty in qualitative risk is in describing the likelihood and impact values. These values should be standard scaled so that it can be used with consistency across different risk assessment methods Some drawbacks of qualitative risk assessment are harder to communicate the results to management without precise information. Just saying the risk is high or low will not give a better understanding. To improve and overcome this hurdle, a table with impact and likelihood tables and the potential impact will assist the management in better handling the risk.  </p>
+ </div>
+
+
 
  
 # 5. Sanshi Assistant Design
