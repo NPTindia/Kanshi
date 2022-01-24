@@ -335,6 +335,17 @@ The main reason for this is complexity in the identification and assigning of va
  
 # 5. Sanshi Assistant Design
 
+## 5.1 Wake up Sanshi
+  ### 5.1.1 Use Text to Wake up Sanshi
+  
+  ### 5.1.1 Use Voice to Wake up Sanshi
+  
+   - Use Speech Recognition  to get Text
+   - Use Tect handle Dialog Flow
+   - Use NLP for Dialog Flow
+   - use Speech Synthesis to displaay message to user.
+   
+
 ![NetworkSecurityLab](https://user-images.githubusercontent.com/58679469/150686458-0f1f0f10-84d9-4580-a694-15644f2064ec.jpg)
 
 
