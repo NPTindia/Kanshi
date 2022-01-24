@@ -341,10 +341,20 @@ The main reason for this is complexity in the identification and assigning of va
 
 ![NetworkSecurityLab(1)](https://user-images.githubusercontent.com/58679469/150686463-becf05b1-cd0e-4d4c-868e-d07a55f7f4f2.jpg)
 
-# 7. Sanshi Assistant Deployment
 
 
 ![NetworkSecurityLab(4)](https://user-images.githubusercontent.com/58679469/150686584-18f43ef8-22f9-4664-8c13-a7345a1b0000.jpg)
+
+# 7. Sanshi Assistant Deployment
+
+
+
+<div align="justify"> 
+<p> Training platform is different from deployment platform. Same provides obstruction to carry trained network in to limited capability deployment edge. Mostly there is a need to cut down Model size or optimise weights of each node in Model. This mentioned optimisation of Model size of node weight may not be there if deployment happens in cloud side of infrastructure.   </p>
+ </div>
+ 
+[Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/inference/flask-micro-service)
+
 
 
 # Reference 
