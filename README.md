@@ -6,36 +6,22 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
  The Internet is designed to carry data by using IP packets across the network and deliver,  as per destination given its header segment. Challenge is to monitor above mentioned IP packets in a given enterprise  network and permit the same IP packet to travel to a defined destination mahine. IP packets have few variations such as TCP, UDP and ICMP.  Moreover, mentioned IP packets need  to use PORTs in a given Machine to deliver.  
  
  <div id="content">
-    <h2> IP  network to Neaural network</h2>
+    <h4> IP  network to Neaural network</h4>
     <img src="https://user-images.githubusercontent.com/58679469/150729053-6a1deae5-f6a2-46e0-bac0-7dd676c96e04.png" width="200" height="152" />
-   <img src="https://user-images.githubusercontent.com/58679469/150729053-6a1deae5-f6a2-46e0-bac0-7dd676c96e04.png" width="200" height="152" />
-   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Nam porttitor urna sit amet est pulvinar congue. Integer 
-    lacinia dictum enim, non molestie turpis volutpat et. Praesent 
-    pretium accumsan sapien, porttitor rhoncus augue porta ac. 
-    Quisque fermentum enim quis magna condimentum a lobortis urna 
-    accumsan. Integer viverra tristique turpis, sed fermentum 
-    lorem hendrerit vitae.</p>
+   <img src="https://user-images.githubusercontent.com/58679469/150728889-8eb74247-8fc9-4691-96a6-9899583756f0.png" width="200" height="152" />
+   
 </div>
 
  
- <p align="center">
-  <img src="https://user-images.githubusercontent.com/58679469/150686417-834d2fac-1fba-40b6-b9d9-de18adc26eec.png?raw=true" alt="Sublime's custom image"/>
-</p>
-
-![image](https://user-images.githubusercontent.com/58679469/150729053-6a1deae5-f6a2-46e0-bac0-7dd676c96e04.png)
 
 
-
-![image](https://user-images.githubusercontent.com/58679469/150728889-8eb74247-8fc9-4691-96a6-9899583756f0.png)
-
- 
+ <p> 
  There have been events in which unwanted and harmful IP packets are used  to perform certain act in a remote machine.  Thus, there is a need to stop such IP packets in a given enterprise network and provide safety  to users of the internet in their enterprise. Volume of IP packets travels in a given enterprise network requires a huge amount of computing power to monitor IP packets and safeguard their user application. 
  
  Throughout 2021, we observed low  sophistication threat actors learn that they  could create big impacts in the operational  technology (OT) space—perhaps even bigger than they intended. Actors will continue to  explore the OT space in 2022 and increasingly use ransomware in their attacks. This targeting  will occur because of the need to keep OT environments fully operational, especially when the systems are part of critical infrastructure. Attacks against critical OT environments can cause serious disruption and even threaten human lives, thereby increasing the pressure for organizations to pay a ransom. To compound the issue, many of these OT devices are not built with security at the forefront of the design, and we’re currently seeing a massive uptick in the number of vulnerabilities being identified in OT environments
 
  Autonomous monitoring systems require “capturing IP packets “ in neal time and infer safety level of enterprise network,  Digital Assistant with AI provides a method to monitor a given enterprise IP network. 
-
+</p>
 
 ![vv4](https://user-images.githubusercontent.com/58679469/150686392-ab116404-3be5-4d41-b347-e30a8ebe09d3.png)
 
