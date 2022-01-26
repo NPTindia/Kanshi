@@ -396,6 +396,8 @@ The main reason for this is complexity in the identification and assigning of va
 
 # 9. Kanshi Assistant Development 
 
+https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-watson-chatbot
+
 
 
 
