@@ -401,9 +401,7 @@ The main reason for this is complexity in the identification and assigning of va
 ![image](https://user-images.githubusercontent.com/58679469/151116967-0e9941e4-cb57-446a-b001-6311097e3d9a.png)
 
 
-## Voice-enabled Android chatbot
 
-https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-watson-chatbot
 
 
 
@@ -413,7 +411,9 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 # 10. Kanshi Assistant Deployment
 
 
+## Voice-enabled Android chatbot
 
+https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-watson-chatbot
 
 
 
