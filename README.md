@@ -360,21 +360,25 @@ The main reason for this is complexity in the identification and assigning of va
 
 
 <div align="justify">  <p> 2a:  Train in Colab  </p>  </div>
-  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab)
+
+[Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab)
  
  
  
-<div align="justify">  <p> 2a:  Train in  Ubuntu 18.04  </p>  </div>
-  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/tf-on-prime-cpu)
+<div align="justify">  <p> 2b:  Train in  Ubuntu 18.04  </p>  </div>
+
+[Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/tf-on-prime-cpu)
 
    
  
 <div align="justify">  <p> 2c:  Train in  Power 9 CPU  </p>  </div>
-  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-in-power-9)
+
+[Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-in-power-9)
 
  
 <div align="justify">  <p> 2e:  Train in  Jetson Nano GPU </p>  </div>
-  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-for-jetson-nano)
+
+[Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-for-jetson-nano)
   
 
 ![NetworkSecurityLab(4)](https://user-images.githubusercontent.com/58679469/150686584-18f43ef8-22f9-4664-8c13-a7345a1b0000.jpg)
