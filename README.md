@@ -359,38 +359,33 @@ The main reason for this is complexity in the identification and assigning of va
 [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi)
 
 
-
-
-2a:  Train in Colab  | [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab)
-
-| Row 2 Column 1 | Row 2 Column 2 | 
-
-| Row 3 Column 1 | Row 3 Column 2 | 
-
-
-
 Following links 2a, ab, ac and 2e provides methods and process to train a given Deep learning Model by using Data set
 
-<div align="justify">  <p> 2a:  Train in Colab  </p>  </div>
+2a:  Train in Colab   [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab)
 
-[Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab)
- 
- 
- 
-<div align="justify">  <p> 2b:  Train in  Ubuntu 18.04  </p>  </div>
+2b:  Train in  Ubuntu 18.04  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/tf-on-prime-cpu)
 
-[Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/tf-on-prime-cpu)
+ 2c:  Train in  Power 9 CPU [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-in-power-9)
+ 
+ 2e:  Train in  Jetson Nano GPU [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-for-jetson-nano)
+ 
+
+
+
+
+
+
+
+
 
    
- 
-<div align="justify">  <p> 2c:  Train in  Power 9 CPU  </p>  </div>
 
-[Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-in-power-9)
+
 
  
-<div align="justify">  <p> 2e:  Train in  Jetson Nano GPU </p>  </div>
+<div align="justify">  <p>  </p>  </div>
 
-[Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-for-jetson-nano)
+
   
 
 ![NetworkSecurityLab(4)](https://user-images.githubusercontent.com/58679469/150686584-18f43ef8-22f9-4664-8c13-a7345a1b0000.jpg)
