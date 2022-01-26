@@ -396,6 +396,27 @@ The main reason for this is complexity in the identification and assigning of va
 
 # 9. Kanshi Assistant Development 
 
+
+IBM Watson Assistant helps yuser to  overcome the steep learning curve and frustrating jargon other virtual agent products use. It’s now easier than ever to design AI chatbots without complex decision trees or any kind of coding required. Watson Assistant now allows you, the one closest to the customer, to build better virtual agents your customers will actually want to use.
+
+
+![image](https://user-images.githubusercontent.com/58679469/151119111-c454f20c-0d3b-4c66-b63b-e0559a33a176.png)
+
+<ul>
+  <li> Powered: IBM Watson Assistant is built on deep learning, machine learning, and natural language processing (NLP) models to understand questions, find or search for the best answers, and complete the user’s intended action. Watson also uses intent classification and entity recognition to better understand customers in context and transfer them to a human agent when needed </li>
+   <li> Integrations: Watson Assistant is designed to extend and enhance your customer service applications, giving customers and agents the answers they need wherever they ar </li>
+     <ul>
+           <li> Seamlessly route customers to the right agent  </li>
+           <li>  Respond to customer inquiries via phone and digital channels  </li>
+           <li>Find answers within any existing structured or unstructured content  </li> 
+      </ul>
+   <li>Virtual Builder : IBM Watson Assistant helps you overcome the steep learning curve and frustrating jargon other virtual agent products use. It’s now easier than ever to design AI chatbots without complex decision trees or any kind of coding required. Watson Assistant now allows you, the one closest to the customer, to build better virtual agents your customers will actually want to use.  </li> 
+   <li>Analytics :  Watson Assistant provides a summary of the interactions between users and your virtual agent. Visualization and analysis of critical metrics and KPIs help you understand the topics users want addressed, if the virtual agent is meeting those needs, and how to improve the service it provides  </li>
+   <li> Security : Watson Assistant provides large, complex and data-sensitive organizations with the security and scalability capabilities you need to safeguard against misuse of customer data and support your virtual agent during peak times. </li>
+</ul>
+
+
+
 ## Watson Assistant: Intelligent virtual agent
 
 ![image](https://user-images.githubusercontent.com/58679469/151116967-0e9941e4-cb57-446a-b001-6311097e3d9a.png)
