@@ -439,6 +439,23 @@ https://cloud.ibm.com/docs/assistant
 
 # 10. Kanshi Assistant Deployment
 
+This topic reviews the basic steps and concepts that are involved to make your assistant available to customers. For more information about the different steps, see the following topics:
+
+
+<ul>
+  <li> Previewing and sharing your assistant  </li>
+   <li> Publishing your content  </li>
+   <li>    Deploying your assistant </li>
+</ul>
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/58679469/151121794-26e69cb3-7b40-41a5-b8df-8fbda74bccd2.png">
+</p>
+
+    
+To deploy an assistant to customers, a channel integration must be added. By default, a web chat integration is created, allowing an assistant to be embedded in a website. Other channel integrations are available in the Integrations catalog. For more information about deploying to your website, see Adding the web chat to your website.   
+ 
+
 
 ## Voice-enabled Android chatbot
 
