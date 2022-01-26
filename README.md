@@ -400,7 +400,10 @@ The main reason for this is complexity in the identification and assigning of va
 IBM Watson Assistant helps yuser to  overcome the steep learning curve and frustrating jargon other virtual agent products use. It’s now easier than ever to design AI chatbots without complex decision trees or any kind of coding required. Watson Assistant now allows you, the one closest to the customer, to build better virtual agents your customers will actually want to use.
 
 
-![image](https://user-images.githubusercontent.com/58679469/151119111-c454f20c-0d3b-4c66-b63b-e0559a33a176.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/58679469/151119111-c454f20c-0d3b-4c66-b63b-e0559a33a176.png">
+</p>
+
 
 <ul>
   <li> Powered: IBM Watson Assistant is built on deep learning, machine learning, and natural language processing (NLP) models to understand questions, find or search for the best answers, and complete the user’s intended action. Watson also uses intent classification and entity recognition to better understand customers in context and transfer them to a human agent when needed </li>
@@ -442,5 +445,5 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 # 11. Reference 
 
 1. https://cloud.ibm.com/registration?target=/developer/watson/launch-tool/conversation&hideTours=true&cm_sp=WatsonPlatform-WatsonPlatform-_-OnPageNavCTA-IBMWatson_Conversation-_-Watson_Developer_Website&cm_mmca1=000027BD 
-2.  ..
+2. https://www.ibm.com/products/watson-assistant/artificial-intelligence  AI chatbot that’s easy to use, Natural language AI that understands human conversation and improves the customer experience
 
