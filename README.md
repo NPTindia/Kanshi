@@ -346,10 +346,26 @@ The main reason for this is complexity in the identification and assigning of va
 
 # 6. Train Deep Learning Model
 
+
+div align="justify"> 
+<p> Bring Your Data on to Your Table ( that has OpenPower Computing)  to perform AI Work load on the same to arrive at a well trained Deep Learning Model which can be traded or deployed for your enterprise use or home use.  Dltrain is used to train Deep learning Model by using }computing infrastructure on your table.   OA provides a quick solution for the above mentioned by using OpenPower / IBM Power Systems that form a basis for “computing infra on your table”.
+ As mentioned above,  “computing infra setup will be ready within 4 hours and then your team can directly Load AI work load on it. All done within best Engineering Practices such that  there are no external dependencies from unknown and untraceable software components from Open source.  Dltrain is developed by using C and C++ such that it can run best in IBM Power systems. Most importantly, effort is given to make DLtrain very useful to Subject matter experts ( domain knowledge holders) to bring their best via their own Custom model without doing a single line of Coding. Dltrain also provides provision  to run the Trained Model in the above and move to Android Phone with ease. After moving the trained model to Android phone,  application  is designed to use phone camera or local files to get input image to perform inference in Phone locally. There is no need to connect with Cloud for inferencing.  </p>
+ </div>
+ 
+[Link to Google](https://www.jkuse.com/home/jkevents/baranovichi)
+
+<ul>
+  <li>   2a :  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab)  </li>
+   <li>  2b : [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/tf-on-prime-cpu)  </li>
+   <li>  2c:  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-in-power-9) </li> 
+   <li>  2e: [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-for-jetson-nano)  </li>
+</ul>
+
+
 ![NetworkSecurityLab(4)](https://user-images.githubusercontent.com/58679469/150686584-18f43ef8-22f9-4664-8c13-a7345a1b0000.jpg)
 
 
-# 7. Inference Service by using  Deep Learning Model
+# 7. Inference by using  Deep Learning Model
 
 <div align="justify"> 
 <p> Training platform is different from deployment platform. Same provides obstruction to carry trained network in to limited capability deployment edge. Mostly there is a need to cut down Model size or optimise weights of each node in Model. This mentioned optimisation of Model size of node weight may not be there if deployment happens in cloud side of infrastructure.   </p>
