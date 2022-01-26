@@ -361,7 +361,7 @@ The main reason for this is complexity in the identification and assigning of va
 
 
 
-| Row 1 Column 1 | [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab)|
+2a:  Train in Colab  | [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab)
 
 | Row 2 Column 1 | Row 2 Column 2 | 
 
