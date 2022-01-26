@@ -359,6 +359,18 @@ The main reason for this is complexity in the identification and assigning of va
 [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi)
 
 
+| Method  | Lick  | Column 3 Header |
+
+| --------------- | --------------- | --------------- |
+
+| Row 1 Column 1 | [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab)| Row 1 Column 3 |
+
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+
+
+
 Following links 2a, ab, ac and 2e provides methods and process to train a given Deep learning Model by using Data set
 
 <div align="justify">  <p> 2a:  Train in Colab  </p>  </div>
