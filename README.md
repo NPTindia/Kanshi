@@ -332,14 +332,18 @@ The main reason for this is complexity in the identification and assigning of va
 
 # 5. Data Set : PCAP file / Stream to Tensor
 
+
+## Read Packets from PCAP Stream
+
 - Collect data from Netowrk and store it in PCAP File
 - Process PCAP file as given in the following diagram to get Tensor
-- Tesone is having time stamp column and Packet Data column
+- Tensor is having time stamp column and Packet Data column
 
 
 ![NetworkSecurityLab](https://user-images.githubusercontent.com/58679469/150686458-0f1f0f10-84d9-4580-a694-15644f2064ec.jpg)
 
-
+ ## Create Tensor from PCAP Packets
+ If a new pcap record was populated successfully, the scalars are placed into respective tensor placeholders. The shape of the resulting output tensor is a matrix with two columns. One column holds the timestamp scalars for each read pcap packet. The other column holds the corresponding packet data as a string. Each row in the output tensor (matrix) corresponds to a pcap packet
 
 ![NetworkSecurityLab(1)](https://user-images.githubusercontent.com/58679469/150686463-becf05b1-cd0e-4d4c-868e-d07a55f7f4f2.jpg)
 
@@ -355,19 +359,23 @@ The main reason for this is complexity in the identification and assigning of va
 [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi)
 
 
-<div align="justify"> 
-<p> 2a:   </p>
- </div>
+<div align="justify">  <p> 2a:  Train in Colab  </p>  </div>
+  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab)
  
- [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab)
  
-<ul>
-  <li>   2a :   </li>  
-   <li>  2b :   </li> [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/tf-on-prime-cpu)
-   <li>  2c:   </li>  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-in-power-9)
-   <li>  2e:  </li>  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-for-jetson-nano)
-</ul>
+ 
+<div align="justify">  <p> 2a:  Train in  Ubuntu 18.04  </p>  </div>
+  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/tf-on-prime-cpu)
 
+   
+ 
+<div align="justify">  <p> 2c:  Train in  Power 9 CPU  </p>  </div>
+  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-in-power-9)
+
+ 
+<div align="justify">  <p> 2e:  Train in  Jetson Nano GPU </p>  </div>
+  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-for-jetson-nano)
+  
 
 ![NetworkSecurityLab(4)](https://user-images.githubusercontent.com/58679469/150686584-18f43ef8-22f9-4664-8c13-a7345a1b0000.jpg)
 
@@ -493,4 +501,5 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 
 1. https://cloud.ibm.com/registration?target=/developer/watson/launch-tool/conversation&hideTours=true&cm_sp=WatsonPlatform-WatsonPlatform-_-OnPageNavCTA-IBMWatson_Conversation-_-Watson_Developer_Website&cm_mmca1=000027BD 
 2. https://www.ibm.com/products/watson-assistant/artificial-intelligence  AI chatbot that’s easy to use, Natural language AI that understands human conversation and improves the customer experience
+3.  https://towardsdatascience.com/how-to-build-a-custom-dataset-for-tensorflow-1fe3967544d8 Hanling PCAP file stream
 
