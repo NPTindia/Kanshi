@@ -400,7 +400,7 @@ Following links 2a, ab, ac and 2e provides methods and process to train a given 
 [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/inference/flask-micro-service)
 
 
-# 8. Sanshi Assistant Design
+# 8. Kanshi Assistant Design
 
 ## 8.1 Wake up Kanshi
   ### 8.1.1 Use Text to Wake up Kanshi
