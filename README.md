@@ -355,10 +355,10 @@ div align="justify">
 [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi)
 
 <ul>
-  <li>   2a :  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab)  </li>
-   <li>  2b : [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/tf-on-prime-cpu)  </li>
-   <li>  2c:  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-in-power-9) </li> 
-   <li>  2e: [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-for-jetson-nano)  </li>
+  <li>   2a :   </li>  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab)
+   <li>  2b :   </li> [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/tf-on-prime-cpu)
+   <li>  2c:   </li>  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-in-power-9)
+   <li>  2e:  </li>  [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/build-dltrain-for-jetson-nano)
 </ul>
 
 
