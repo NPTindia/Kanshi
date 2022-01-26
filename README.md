@@ -422,7 +422,12 @@ IBM Watson Assistant helps yuser to  overcome the steep learning curve and frust
 
 ## Watson Assistant: Intelligent virtual agent
 
+In this short tutorial, we introduce IBM Watson™ Assistant and walk you through the process of creating your first assistant.
+
+https://cloud.ibm.com/docs/assistant
+
 ![image](https://user-images.githubusercontent.com/58679469/151116967-0e9941e4-cb57-446a-b001-6311097e3d9a.png)
+
 
 
 
@@ -436,6 +441,8 @@ IBM Watson Assistant helps yuser to  overcome the steep learning curve and frust
 
 
 ## Voice-enabled Android chatbot
+
+This tutorial walks you through the process of defining intents and entities and building a dialog flow for your chatbot to respond to customer queries. You will learn how to enable Speech to Text and Text to Speech services for easy interaction with the Android app.
 
 https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-watson-chatbot
 
