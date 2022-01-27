@@ -1,6 +1,14 @@
 # Kanshi
 Deep Learning in  Network  monitoring ( கண்காணிப்பு )  
 
+```mermaid!
+pie title Pets adopted by volunteers
+  "Dogs" : 386
+  "Cats" : 85
+  "Rats" : 35
+```
+
+
 # 1. Introduction
 <div align="justify"> 
 <p> 
