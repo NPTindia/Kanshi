@@ -29,15 +29,15 @@ There have been events in which unwanted and harmful IP packets are used  to per
  </div>
 
 </div>
-  In Boltzmann machine,   each un-directed edge represents dependency. In this example there are 3 hidden units and 4 visible units.   This is not a restricted Boltzmann machine. Effort is made in this course to use  Restricted   Boltzmann machine to solve Security problems in IP  Network.
+  In Boltzmann machine,   each un-directed edge represents dependency. In this example there are 3 hidden units and 4 visible units.   This is not a restricted Boltzmann machine. Effort is made in this course to use  Restricted   Boltzmann machine to solve Security problems in IP  Network  \[ Ref 5 \] .
   </div>
-  [Link to Google](https://www.jkuse.com/home/physics-in-dl/boltzmann-machine)
+  [Link to Google]()
  
 
  
- [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab)
+
 <blockquote >
- <p><cite> IoT Security at the Edge with Eurotech: “Security is not just a concern. It’s a barrier to adoption”    </p>
+ <p><cite> IoT Security at the Edge with Eurotech: “Security is not just a concern. It’s a barrier to adoption”  \[ Ref 6 \]   </p>
 </blockquote>
 
 
@@ -531,6 +531,8 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 2. https://www.ibm.com/products/watson-assistant/artificial-intelligence  AI chatbot that’s easy to use, Natural language AI that understands human conversation and improves the customer experience
 3.  https://towardsdatascience.com/how-to-build-a-custom-dataset-for-tensorflow-1fe3967544d8 Hanling PCAP file stream
 4.  https://jupyter4edu.github.io/jupyter-edu-book/getting-going.html github classroom 
+5.  https://www.jkuse.com/home/physics-in-dl/boltzmann-machine  RBM from ww.jkuse.com
+6.  https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab IoT and Security 
 
 # 12.  Delivery Plan
 
