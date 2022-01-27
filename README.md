@@ -521,7 +521,7 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 3.  https://towardsdatascience.com/how-to-build-a-custom-dataset-for-tensorflow-1fe3967544d8 Hanling PCAP file stream
 4.  https://jupyter4edu.github.io/jupyter-edu-book/getting-going.html github classroom 
 
-# Prerequisites
+# 12. Prerequisites
 
 ## Skill
 
@@ -540,3 +540,22 @@ During above course work,  following skills  will be useful  to handle given wor
 
 ## Lab environment
 Course uses the github, JupyterLab, Scapy and few more tool set.
+
+# 13. Micro Objectives to Learn
+After completing this course, learner may  be able to perform the following tasks
+
+<ul>
+  <li> Familiarity with  Scapy to  collect data  and  detect suspicious activities </li>
+   <li> Using  Deep Learning  architecture to handle data flows </li>
+   <li> Design a Navigation  for user interface ( by using IBM Watson Assistant) </li> 
+   <li> Provide information on  log sources, protocols, and event details </li>
+   <li>Discover how  Scapy collects and analyzes network flow information  </li>
+ <li>   Deep learning  based  Custom Rule Engine design and development</li>
+   <li>  Utilize the Use Case Manager app</li>
+   <li> Manage security of asset information in real time </li> 
+   <li> Learn about a variety of  AI apps for security , content extensions, and the App Framework </li>
+   <li> Analyze offenses by using the AI  and the Analyst Workflow app </li>
+<li> Use Python in Jupyter lab  to create customized reports </li>
+<li> Search, filter, group, and analyze security data </li>
+</ul>
+
