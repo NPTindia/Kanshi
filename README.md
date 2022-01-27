@@ -1,4 +1,4 @@
-# kanshi
+# Kanshi
 Deep Learning in  Network  monitoring ( கண்காணிப்பு )  
 
 # 1. Introduction
@@ -521,3 +521,21 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 3.  https://towardsdatascience.com/how-to-build-a-custom-dataset-for-tensorflow-1fe3967544d8 Hanling PCAP file stream
 4.  https://jupyter4edu.github.io/jupyter-edu-book/getting-going.html github classroom 
 
+# Prerequisites
+
+## Skill
+     During above course work,  following skills  will be useful  to handle given workflow as part of Blended Learning.
+
+<ul>
+  <li> IT infrastructure </li>
+   <li> IT security fundamentals  </li>
+   <li> Linux </li> 
+   <li>  TCP/IP networking</li>
+</ul>
+
+
+## Duration 
+2 week  instructor-led course with Online content.
+
+## Lab environment
+Course uses the github, JupyterLab, Scapy and few more tool set.
