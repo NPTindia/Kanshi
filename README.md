@@ -48,10 +48,6 @@ In Boltzmann machine, each un-directed edge represents dependency. Above example
  </div>
  
 
- <p> MIT Technology Review  01.24.22.  [Ref 7]  </p>
-<blockquote >
- <p><cite> Escalating actions: Russia has sent more than 100,000 soldiers to the nation's border with Ukraine. While no physical invasion has taken place yet, cyber operations are already underway. Earlier this month, hackers defaced dozens of government websites in Ukraine, a technically simple but attention-grabbing act that generated global headlines. More quietly, they also placed destructive malware inside Ukrainian government agencies. It’s not clear yet who is responsible, but Russia is the leading suspect    </p>
-</blockquote>  
 
 
 
@@ -570,6 +566,12 @@ After completing this course, learner may  be able to perform the following task
  <blockquote >
  <p><cite> IoT Security at the Edge with Eurotech: “Security is not just a concern. It’s a barrier to adoption”  [Ref 6]   </p>
 </blockquote>
+
+
+ <p> MIT Technology Review  01.24.22.  [Ref 7]  </p>
+<blockquote >
+ <p><cite> Escalating actions: Russia has sent more than 100,000 soldiers to the nation's border with Ukraine. While no physical invasion has taken place yet, cyber operations are already underway. Earlier this month, hackers defaced dozens of government websites in Ukraine, a technically simple but attention-grabbing act that generated global headlines. More quietly, they also placed destructive malware inside Ukrainian government agencies. It’s not clear yet who is responsible, but Russia is the leading suspect    </p>
+</blockquote>  
 
 
  <div align="justify"> 
