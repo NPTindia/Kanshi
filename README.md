@@ -52,7 +52,9 @@ There have been events in which unwanted and harmful IP packets are used  to per
  <p><cite> Escalating actions: Russia has sent more than 100,000 soldiers to the nation's border with Ukraine. While no physical invasion has taken place yet, cyber operations are already underway. Earlier this month, hackers defaced dozens of government websites in Ukraine, a technically simple but attention-grabbing act that generated global headlines. More quietly, they also placed destructive malware inside Ukrainian government agencies. It’s not clear yet who is responsible, but Russia is the leading suspec
 </blockquote>
 
+Deep Learning has been used in solving image classification and associated problems.  Research work at our lab had given a  tool set and associated process to address security monitoring problems.  Comprehensive visibility enables user to Gain centralized insight into logs, flows and events across environments. Real-time threat detection opens up an economically viable workflow with automatically analysing logs and flows to generate prioritized alerts.  Streamlined compliance can be used to resolve security hole issues by using   pre-built reports and templates to speed internal and external compliance. High efficiency workflow mostly using AI and less of human role by   eliminating manual tracking processes to focus on investigation and response.
 
+  
 # 2. Problem Definition 
 
 <div align="justify"> 
@@ -70,7 +72,6 @@ There have been events in which unwanted and harmful IP packets are used  to per
  </div>
  
  
-
 
 # 3. Tool Set  used in creating  Kanshi Assistant 
 
