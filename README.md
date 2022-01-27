@@ -32,13 +32,7 @@ There have been events in which unwanted and harmful IP packets are used  to per
 In Boltzmann machine, each un-directed edge represents dependency. Above example there are 3 hidden units and 4 visible units.   This is not a restricted Boltzmann machine. But, effort is made  to use  Restricted   Boltzmann machine to solve Security problems in IP  Network [Ref 5].
   </div>
   
-  
-<blockquote >
- <p><cite> IoT Security at the Edge with Eurotech: “Security is not just a concern. It’s a barrier to adoption”  [Ref 6]   </p>
-</blockquote>
-
-
-
+ 
   
   
 <div align="justify"> 
@@ -573,6 +567,11 @@ After completing this course, learner may  be able to perform the following task
 
 # 14. Trend in Industry
  
+ <blockquote >
+ <p><cite> IoT Security at the Edge with Eurotech: “Security is not just a concern. It’s a barrier to adoption”  [Ref 6]   </p>
+</blockquote>
+
+
  <div align="justify"> 
  <p> 
  Throughout 2021, we observed low  sophistication threat actors learn that they  could create big impacts in the operational  technology (OT) space—perhaps even bigger than they intended. Actors will continue to  explore the OT space in 2022 and increasingly use ransomware in their attacks. This targeting  will occur because of the need to keep OT environments fully operational, especially when the systems are part of critical infrastructure. Attacks against critical OT environments can cause serious disruption and even threaten human lives, thereby increasing the pressure for organizations to pay a ransom. To compound the issue, many of these OT devices are not built with security at the forefront of the design, and we’re currently seeing a massive uptick in the number of vulnerabilities being identified in OT environments
