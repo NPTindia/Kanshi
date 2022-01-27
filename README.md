@@ -348,7 +348,27 @@ The main reason for this is complexity in the identification and assigning of va
 </ul>
     
     
-   
+   ![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2FTLmaK0%2Fgravizo%2Fmaster%2FREADME.md)
+<details> 
+<summary></summary>
+custom_mark10
+  digraph G {
+    size ="4,4";
+    Network activity [shape=box];
+    Network activity -> Packet Capture [weight=8];
+    make PCAP stream -> data for Tensfor Flow Model;
+    Network activity -> tcpdump [style=dotted];
+    Network activity -> Wireshark;
+    Inference -> { Result in Web Micro Serice ; Result in ResT API Service};
+    tcpdump -> Result in Web Micro Serice;
+    edge [color=red];
+    Network activity -> Result in ResT API Service [style=bold,label="100 times"];
+    Result in Web Micro Serice [label="make a string"];
+    node [shape=box,style=filled,color=".7 .3 1.0"];
+    Inference -> Dialog with Engineer;
+  }
+custom_mark10
+</details>
     
 
 To simulate a network configuration change
@@ -549,6 +569,8 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 5.  https://www.jkuse.com/home/physics-in-dl/boltzmann-machine  RBM from ww.jkuse.com
 6.  https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab IoT and Security 
 7.  https://www.technologyreview.com/2022/01/21/1043980/how-a-russian-cyberwar-in-ukraine-could-ripple-out-globally/?truid=&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=&utm_content=01-24-2022&mc_cid=df41641f1f&mc_eid=f3a31df9fd  MIT news
+8.  https://github.com/TLmaK0/gravizo  gravizo
+9.  https://g.gravizo.com/  Gravizo - Your Graphviz, UMLGraph or PlantUML for your README
 
 # 13.  Delivery Plan
 
@@ -609,24 +631,4 @@ After completing this course, learner may  be able to perform the following task
    </p>
     </div>
     
-![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2FTLmaK0%2Fgravizo%2Fmaster%2FREADME.md)
-<details> 
-<summary></summary>
-custom_mark10
-  digraph G {
-    size ="4,4";
-    main [shape=box];
-    main -> parse [weight=8];
-    parse -> execute;
-    main -> init [style=dotted];
-    main -> cleanup;
-    execute -> { make_string; printf};
-    init -> make_string;
-    edge [color=red];
-    main -> printf [style=bold,label="100 times"];
-    make_string [label="make a string"];
-    node [shape=box,style=filled,color=".7 .3 1.0"];
-    execute -> compare;
-  }
-custom_mark10
-</details>
+
