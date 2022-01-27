@@ -609,34 +609,21 @@ After completing this course, learner may  be able to perform the following task
    </p>
     </div>
     
-https://g.gravizo.com/svg?
-digraph G {
-    rankdir=LR;
-    compound=true;
-    node [shape="record" style="filled"];
-    splines=line;
-    Client [fillcolor="aliceblue"];
-    subgraph cluster {
-      label="Docker Swarm Cluster";
-      "Load Balancer" [fillcolor="aliceblue"];
-      subgraph cluster_0 {
-          label="Orion Context Broker stack";
-          Orion1 [fillcolor="aliceblue"];
-          Orion2 [fillcolor="aliceblue"];
-          Orion3 [fillcolor="aliceblue"];
-      }
-      subgraph cluster_1 {
-          label="MongoDB Replica Set stack";
-          Mongo1 [fillcolor="aliceblue"];
-          Mongo2 [fillcolor="aliceblue"];
-          Mongo3 [fillcolor="aliceblue"];
-      }
-    }
-    Client -> "Load Balancer" [lhead=cluster_0];
-    "Load Balancer" -> {Orion1,Orion2,Orion3};
-    Orion1 -> Mongo1 [lhead=cluster_1];
-    Orion2 -> Mongo1 [lhead=cluster_1];
-    Orion3 -> Mongo1 [lhead=cluster_1];
-    Mongo1 -> {Mongo2, Mongo3} [dir="both"];
-}
+![Alt text](https://g.gravizo.com/svg?
+  digraph G {
+    size ="4,4";
+    main [shape=box];
+    main -> parse [weight=8];
+    parse -> execute;
+    main -> init [style=dotted];
+    main -> cleanup;
+    execute -> { make_string; printf}
+    init -> make_string;
+    edge [color=red];
+    main -> printf [style=bold,label="100 times"];
+    make_string [label="make a string"];
+    node [shape=box,style=filled,color=".7 .3 1.0"];
+    execute -> compare;
+  }
+)
 
