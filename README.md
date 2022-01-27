@@ -333,8 +333,36 @@ The main reason for this is complexity in the identification and assigning of va
   </p>
 <p>  Assumption in qualitative risk assessment is that there exists a high degree of uncertainty of impact values and likelihood that’s defined. Risk is subjective in terms of issues where the greater the difficulty in qualitative risk is in describing the likelihood and impact values. These values should be standard scaled so that it can be used with consistency across different risk assessment methods Some drawbacks of qualitative risk assessment are harder to communicate the results to management without precise information. Just saying the risk is high or low will not give a better understanding. To improve and overcome this hurdle, a table with impact and likelihood tables and the potential impact will assist the management in better handling the risk.  </p>
  </div>
+ 
+ # 5  Digital Twin 
+ 
+ <div align="justify"> 
+ Digital Twin is used in Simulate the risk of network configuration changes and advice security measure in advance. User can use a topology model to define virtual network models based on your existing network. You can create a network model that is based on a series of modifications that can be combined and configured.User can use a topology model to determine the effect of configuration changes on your network using a simulation. Topology models can be made to include the following,
+ </div>
 
-# 5. Data Set : PCAP file / Stream to Tensor
+<ul>
+  <li> Create virtual topologies for testing network changes. </li>
+   <li> Simulate attacks against virtual networks. </li>
+   <li>  Lower risk and exposure to protected assets through testing. </li>
+   <li> Virtual network segments allow you to confine and test sensitive portions of your network or assets. </li>
+</ul>
+    
+    
+   
+    
+
+To simulate a network configuration change
+<ul>
+  <li>  Create a topology model. </li>
+   <li>   Simulate an attack against the topology model. </li>
+</ul>
+
+   
+  
+
+
+
+# 6. Data Set : PCAP file / Stream to Tensor
 
 
 ## Read Packets from PCAP Stream
@@ -352,7 +380,7 @@ The main reason for this is complexity in the identification and assigning of va
 ![NetworkSecurityLab(1)](https://user-images.githubusercontent.com/58679469/150686463-becf05b1-cd0e-4d4c-868e-d07a55f7f4f2.jpg)
 
 
-# 6. Train Deep Learning Model
+# 7. Train Deep Learning Model
 
 
 <div align="justify"> 
@@ -395,7 +423,7 @@ Following links 2a, ab, ac and 2e provides methods and process to train a given 
 ![NetworkSecurityLab(4)](https://user-images.githubusercontent.com/58679469/150686584-18f43ef8-22f9-4664-8c13-a7345a1b0000.jpg)
 
 
-# 7. Inference by using  Deep Learning Model
+# 8. Inference by using  Deep Learning Model
 
 <div align="justify"> 
 <p> Training platform is different from deployment platform. Same provides obstruction to carry trained network in to limited capability deployment edge. Mostly there is a need to cut down Model size or optimise weights of each node in Model. This mentioned optimisation of Model size of node weight may not be there if deployment happens in cloud side of infrastructure.   </p>
@@ -404,15 +432,15 @@ Following links 2a, ab, ac and 2e provides methods and process to train a given 
 [Link to Google](https://www.jkuse.com/home/jkevents/baranovichi/inference/flask-micro-service)
 
 
-# 8. Kanshi Assistant Design
+# 9. Kanshi Assistant Design
 
-## 8.1 Wake up Kanshi
-  ### 8.1.1 Use Text to Wake up Kanshi
+## 9.1 Wake up Kanshi
+  ### 9.1.1 Use Text to Wake up Kanshi
   
    - Design Wake Word Listener
    - Design Wake Word Model  
   
-  ### 8.1.2 Use Voice to Wake up Kanshi
+  ### 9.1.2 Use Voice to Wake up Kanshi
   
    
    - Use Speech Recognition  to get Text
@@ -420,27 +448,27 @@ Following links 2a, ab, ac and 2e provides methods and process to train a given 
    - Use NLP for Dialog Flow
    - use Speech Synthesis to displaay message to user.
    
-## 8.2   Dialog Skill for Kanshi
+## 9.2   Dialog Skill for Kanshi
 
 
- ### 8.2.1 Indents design
+ ### 9.2.1 Indents design
  
- ### 8.2.2 Entities  design
+ ### 9.2.2 Entities  design
  
-  ### 8.2.2 Dialog   design
+  ### 9.2.2 Dialog   design
 
 
 
 
 
 
-## 8.3  Search  Skill for Kanshi
+## 9.3  Search  Skill for Kanshi
 
 
 
 [![](https://mermaid.ink/img/eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG5TYW5zaGktPj4gQ0VPOiBIZWxsbyBSZWRkeSwgaG93IGFyZSB5b3U_XG5sb29wIEhlYWx0aGNoZWNrXG4gICAgQ0VPLT4-Q0VPOiBGaWdodCBhZ2FpbnN0IGh5cG9jaG9uZHJpYVxuZW5kXG5Ob3RlIHJpZ2h0IG9mICBDRU86IFJhdGlvbmFsIHRob3VnaHRzIVxuQ0VPLS0-PkhSOiBHcmVhdCFcbkNFTy0-PiBQdXNwaGE6IEhvdyBhYm91dCB5b3U_XG5QdXNwaGEtLT4-Q0VPOiBKb2xseSBnb29kISIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6ZmFsc2UsImF1dG9TeW5jIjp0cnVlLCJ1cGRhdGVEaWFncmFtIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/edit#eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG5TYW5zaGktPj4gQ0VPOiBIZWxsbyBSZWRkeSwgaG93IGFyZSB5b3U_XG5sb29wIEhlYWx0aGNoZWNrXG4gICAgQ0VPLT4-Q0VPOiBGaWdodCBhZ2FpbnN0IGh5cG9jaG9uZHJpYVxuZW5kXG5Ob3RlIHJpZ2h0IG9mICBDRU86IFJhdGlvbmFsIHRob3VnaHRzIVxuQ0VPLS0-PkhSOiBHcmVhdCFcbkNFTy0-PiBQdXNwaGE6IEhvdyBhYm91dCB5b3U_XG5QdXNwaGEtLT4-Q0VPOiBKb2xseSBnb29kISIsIm1lcm1haWQiOiJ7XG4gIFwidGhlbWVcIjogXCJkZWZhdWx0XCJcbn0iLCJ1cGRhdGVFZGl0b3IiOmZhbHNlLCJhdXRvU3luYyI6dHJ1ZSwidXBkYXRlRGlhZ3JhbSI6ZmFsc2V9)
 
-# 9. Kanshi Assistant Development 
+# 10. Kanshi Assistant Development 
 
 
 IBM Watson Assistant helps yuser to  overcome the steep learning curve and frustrating jargon other virtual agent products use. It’s now easier than ever to design AI chatbots without complex decision trees or any kind of coding required. Watson Assistant now allows you, the one closest to the customer, to build better virtual agents your customers will actually want to use.
@@ -483,7 +511,7 @@ https://cloud.ibm.com/docs/assistant
 
 
 
-# 10. Kanshi Assistant Deployment
+# 11. Kanshi Assistant Deployment
 
 This topic reviews the basic steps and concepts that are involved to make your assistant available to customers. For more information about the different steps, see the following topics:
 
@@ -512,7 +540,7 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 
 
 
-# 11. Reference 
+# 12. Reference 
 
 1. https://cloud.ibm.com/registration?target=/developer/watson/launch-tool/conversation&hideTours=true&cm_sp=WatsonPlatform-WatsonPlatform-_-OnPageNavCTA-IBMWatson_Conversation-_-Watson_Developer_Website&cm_mmca1=000027BD 
 2. https://www.ibm.com/products/watson-assistant/artificial-intelligence  AI chatbot that’s easy to use, Natural language AI that understands human conversation and improves the customer experience
@@ -522,7 +550,7 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 6.  https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab IoT and Security 
 7.  https://www.technologyreview.com/2022/01/21/1043980/how-a-russian-cyberwar-in-ukraine-could-ripple-out-globally/?truid=&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=&utm_content=01-24-2022&mc_cid=df41641f1f&mc_eid=f3a31df9fd  MIT news
 
-# 12.  Delivery Plan
+# 13.  Delivery Plan
 
 ##  Prerequisites
 
@@ -543,7 +571,7 @@ During above course work,  following skills  will be useful  to handle given wor
 ## Lab environment
 Course uses the github, JupyterLab, Scapy and few more tool set.
 
-# 13. Micro Objectives to Learn
+# 14. Micro Objectives to Learn
 After completing this course, learner may  be able to perform the following tasks
 
 <ul>
@@ -561,7 +589,7 @@ After completing this course, learner may  be able to perform the following task
 <li> Search, filter, group, and analyze security data </li>
 </ul>
 
-# 14. Trend in Industry
+# 15. Trend in Industry
  
  <blockquote >
  <p><cite> IoT Security at the Edge with Eurotech: “Security is not just a concern. It’s a barrier to adoption”  [Ref 6]   </p>
