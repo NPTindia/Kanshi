@@ -29,7 +29,7 @@ There have been events in which unwanted and harmful IP packets are used  to per
  </div>
 
 </div>
-  In Boltzmann machine,   each un-directed edge represents dependency. In this example there are 3 hidden units and 4 visible units.   This is not a restricted Boltzmann machine. Effort is made in this course to use  Restricted   Boltzmann machine to solve Security problems in IP  Network [Ref 5]  \  .
+In Boltzmann machine, each un-directed edge represents dependency. Above example there are 3 hidden units and 4 visible units.   This is not a restricted Boltzmann machine. But, effort is made  to use  Restricted   Boltzmann machine to solve Security problems in IP  Network [Ref 5].
   </div>
   
   
