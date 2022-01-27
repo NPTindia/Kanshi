@@ -346,8 +346,7 @@ The main reason for this is complexity in the identification and assigning of va
    <li>  Lower risk and exposure to protected assets through testing. </li>
    <li> Virtual network segments allow you to confine and test sensitive portions of your network or assets. </li>
 </ul>
-    
-    
+        
    ![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2FTLmaK0%2Fgravizo%2Fmaster%2FREADME.md)
 <details> 
 <summary></summary>
