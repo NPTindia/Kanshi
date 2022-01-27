@@ -39,7 +39,8 @@ There have been events in which unwanted and harmful IP packets are used  to per
 
 <blockquote >
  <p><cite> IoT Security at the Edge with Eurotech: “Security is not just a concern. It’s a barrier to adoption”    </p>
-</blockquote>  [Link to Google](https://publications.psacertified.org/iot-security-beyond-the-now/eurotech-podcast/)   
+</blockquote> 
+[Link to Google](https://publications.psacertified.org/iot-security-beyond-the-now/eurotech-podcast/)   
 
   
   
@@ -59,7 +60,8 @@ There have been events in which unwanted and harmful IP packets are used  to per
  <p> MIT Technology Review  01.24.22. </p>
 <blockquote >
  <p><cite> Escalating actions: Russia has sent more than 100,000 soldiers to the nation's border with Ukraine. While no physical invasion has taken place yet, cyber operations are already underway. Earlier this month, hackers defaced dozens of government websites in Ukraine, a technically simple but attention-grabbing act that generated global headlines. More quietly, they also placed destructive malware inside Ukrainian government agencies. It’s not clear yet who is responsible, but Russia is the leading suspect   </p>
-</blockquote>  [Link to Google](https://www.technologyreview.com/2022/01/21/1043980/how-a-russian-cyberwar-in-ukraine-could-ripple-out-globally/?truid=&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=&utm_content=01-24-2022&mc_cid=df41641f1f&mc_eid=f3a31df9fd)   
+</blockquote>  
+[Link to Google](https://www.technologyreview.com/2022/01/21/1043980/how-a-russian-cyberwar-in-ukraine-could-ripple-out-globally/?truid=&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=&utm_content=01-24-2022&mc_cid=df41641f1f&mc_eid=f3a31df9fd)   
 
 
   <div align="justify"> 
