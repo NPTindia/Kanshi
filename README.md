@@ -29,12 +29,12 @@ There have been events in which unwanted and harmful IP packets are used  to per
  </div>
 
 </div>
-  In Boltzmann machine,   each un-directed edge represents dependency. In this example there are 3 hidden units and 4 visible units.   This is not a restricted Boltzmann machine. Effort is made in this course to use  Restricted   Boltzmann machine to solve Security problems in IP  Network  [ Ref 5]  .
+  In Boltzmann machine,   each un-directed edge represents dependency. In this example there are 3 hidden units and 4 visible units.   This is not a restricted Boltzmann machine. Effort is made in this course to use  Restricted   Boltzmann machine to solve Security problems in IP  Network [Ref 5]  \  .
   </div>
   
-  [Link to Google]() 
+  
 <blockquote >
- <p><cite> IoT Security at the Edge with Eurotech: “Security is not just a concern. It’s a barrier to adoption”  \[ Ref 6 \]   </p>
+ <p><cite> IoT Security at the Edge with Eurotech: “Security is not just a concern. It’s a barrier to adoption”  [Ref 6]   </p>
 </blockquote>
 
 
@@ -53,10 +53,10 @@ There have been events in which unwanted and harmful IP packets are used  to per
 <p> Above mentioned Assistant is designed to have conversations with Human user.  To have effective and efficient conversion, a design is expected to include “ Intents”  that are very useful for Assistant to narrow down questions and synthesise answers in a given time frame.  “Entities “ expected to helpAssistant to understand conversion from Human at other end.  For example, Port can be intent and entities can be Port is blocked, Port is opened etc. Essentially, there can be manu entities have association with one Intent.   Dialog is useful part for Human being to have conversation with a given Assistant and find out information from Network Monitoring Task.  </p>
  </div>
  
-  [Link to Google](https://www.technologyreview.com/2022/01/21/1043980/how-a-russian-cyberwar-in-ukraine-could-ripple-out-globally/?truid=&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=&utm_content=01-24-2022&mc_cid=df41641f1f&mc_eid=f3a31df9fd)   
- <p> MIT Technology Review  01.24.22. </p>
+
+ <p> MIT Technology Review  01.24.22.  [Ref 7]  </p>
 <blockquote >
- <p><cite> Escalating actions: Russia has sent more than 100,000 soldiers to the nation's border with Ukraine. While no physical invasion has taken place yet, cyber operations are already underway. Earlier this month, hackers defaced dozens of government websites in Ukraine, a technically simple but attention-grabbing act that generated global headlines. More quietly, they also placed destructive malware inside Ukrainian government agencies. It’s not clear yet who is responsible, but Russia is the leading suspect   </p>
+ <p><cite> Escalating actions: Russia has sent more than 100,000 soldiers to the nation's border with Ukraine. While no physical invasion has taken place yet, cyber operations are already underway. Earlier this month, hackers defaced dozens of government websites in Ukraine, a technically simple but attention-grabbing act that generated global headlines. More quietly, they also placed destructive malware inside Ukrainian government agencies. It’s not clear yet who is responsible, but Russia is the leading suspect    </p>
 </blockquote>  
 
 
@@ -530,6 +530,7 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 4.  https://jupyter4edu.github.io/jupyter-edu-book/getting-going.html github classroom 
 5.  https://www.jkuse.com/home/physics-in-dl/boltzmann-machine  RBM from ww.jkuse.com
 6.  https://www.jkuse.com/home/jkevents/baranovichi/train-dl-model/colab IoT and Security 
+7.  https://www.technologyreview.com/2022/01/21/1043980/how-a-russian-cyberwar-in-ukraine-could-ripple-out-globally/?truid=&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=&utm_content=01-24-2022&mc_cid=df41641f1f&mc_eid=f3a31df9fd  MIT news
 
 # 12.  Delivery Plan
 
