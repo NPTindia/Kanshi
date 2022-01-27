@@ -1,13 +1,13 @@
 # Kanshi
 Deep Learning in  Network  monitoring ( கண்காணிப்பு )  
 
-```mermaid
+---mermaid
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
-```
+---
 
 # 1. Introduction
 <div align="justify"> 
