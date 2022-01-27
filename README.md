@@ -524,7 +524,8 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 # Prerequisites
 
 ## Skill
-     During above course work,  following skills  will be useful  to handle given workflow as part of Blended Learning.
+
+During above course work,  following skills  will be useful  to handle given workflow as part of Blended Learning.
 
 <ul>
   <li> IT infrastructure </li>
