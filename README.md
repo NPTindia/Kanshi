@@ -521,9 +521,10 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 3.  https://towardsdatascience.com/how-to-build-a-custom-dataset-for-tensorflow-1fe3967544d8 Hanling PCAP file stream
 4.  https://jupyter4edu.github.io/jupyter-edu-book/getting-going.html github classroom 
 
-# 12. Prerequisites
+# 12.  Delivery Plan
 
-## Skill
+##  Prerequisites
+
 
 During above course work,  following skills  will be useful  to handle given workflow as part of Blended Learning.
 
