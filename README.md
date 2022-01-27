@@ -347,7 +347,7 @@ The main reason for this is complexity in the identification and assigning of va
    <li> Virtual network segments allow you to confine and test sensitive portions of your network or assets. </li>
 </ul>
         
-   ![Alt text]
+   ![Alt text](https://g.gravizo.com/source/<custom_mark>?<url_source_url_encoded>) 
 <details> 
 <summary></summary>
 custom_mark10
