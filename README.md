@@ -26,13 +26,12 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
 There have been events in which unwanted and harmful IP packets are used  to perform certain act in a remote machine.  Thus, there is a need to stop such IP packets in a given enterprise network and provide safety  to users of the internet in their enterprise. Volume of IP packets travels in a given enterprise network requires a huge amount of computing power to monitor IP packets and safeguard their user application.
  
  </p>
- 
- <p> 
- Throughout 2021, we observed low  sophistication threat actors learn that they  could create big impacts in the operational  technology (OT) space—perhaps even bigger than they intended. Actors will continue to  explore the OT space in 2022 and increasingly use ransomware in their attacks. This targeting  will occur because of the need to keep OT environments fully operational, especially when the systems are part of critical infrastructure. Attacks against critical OT environments can cause serious disruption and even threaten human lives, thereby increasing the pressure for organizations to pay a ransom. To compound the issue, many of these OT devices are not built with security at the forefront of the design, and we’re currently seeing a massive uptick in the number of vulnerabilities being identified in OT environments
-
-   </p>
  </div>
- 
+
+</div>
+  In Boltzmann machine,   each un-directed edge represents dependency. In this example there are 3 hidden units and 4 visible units.   This is not a restricted Boltzmann machine. Effort is made in this course to use  Restricted   Boltzmann machine to solve Security problems in IP  Network.
+  </div>
+  [Link to Google](https://www.jkuse.com/home/physics-in-dl/boltzmann-machine)
  
 
  
@@ -572,3 +571,11 @@ After completing this course, learner may  be able to perform the following task
 <li> Search, filter, group, and analyze security data </li>
 </ul>
 
+# 14. Trend in Industry
+ 
+ <div align="justify"> 
+ <p> 
+ Throughout 2021, we observed low  sophistication threat actors learn that they  could create big impacts in the operational  technology (OT) space—perhaps even bigger than they intended. Actors will continue to  explore the OT space in 2022 and increasingly use ransomware in their attacks. This targeting  will occur because of the need to keep OT environments fully operational, especially when the systems are part of critical infrastructure. Attacks against critical OT environments can cause serious disruption and even threaten human lives, thereby increasing the pressure for organizations to pay a ransom. To compound the issue, many of these OT devices are not built with security at the forefront of the design, and we’re currently seeing a massive uptick in the number of vulnerabilities being identified in OT environments
+
+   </p>
+    </div>
