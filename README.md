@@ -234,6 +234,13 @@ How probability is assigned  to each binary vector ? </br>
 how this is connected to the weights of Boltzmann Machine?
 
 
+<div align="justify"> 
+ <p>
+ Maxwell Boltzmann statistics is applicable to identical,distinguishable particle of any type spin.The molecule of gas are particle of this type. </p>
+<p>
+Particles which are regulated by Maxwell-Boltzmann Statistics have to be distinguishable each other and one energy state can be occupied by two or more particles. Distinguishable means that if we have 2 particles, let say A and B, also two states, 1 and 2, and we put A to state 1 and B to state 2, it will be different with the distribution A to state 2 and B to state 1. It means that A and B are distinct 
+</p>
+ </div>
 
 Boltzmann Machine models set of Binary Vectors  </br>
 
