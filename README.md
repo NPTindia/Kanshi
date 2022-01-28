@@ -1,7 +1,7 @@
 # Kanshi
 Deep Learning in  Network  monitoring ( கண்காணிப்பு )  
 
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi}=-1)
+![formula](https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1)
 
 # 1. Introduction
 <div align="justify"> 
@@ -604,6 +604,7 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 7.  https://www.technologyreview.com/2022/01/21/1043980/how-a-russian-cyberwar-in-ukraine-could-ripple-out-globally/?truid=&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=&utm_content=01-24-2022&mc_cid=df41641f1f&mc_eid=f3a31df9fd  MIT news
 8.  https://github.com/TLmaK0/gravizo  gravizo
 9.  https://g.gravizo.com/  Gravizo - Your Graphviz, UMLGraph or PlantUML for your README
+10.  https://gist.github.com/VictorNS69/1c952045825eac1b5e4d9fc84ad9d384 latex in github
 
 # 13.  Delivery Plan
 
