@@ -643,5 +643,5 @@ After completing this course, learner may  be able to perform the following task
     </div>
     
     
- <img src="https://render.githubusercontent.com/render/math?math= A e^{\frac{\pi }{b}}">
+ <img src="https://render.githubusercontent.com/render/math?math= f(E) =  A e^{kT }">
 
