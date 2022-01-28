@@ -624,7 +624,7 @@ After completing this course, learner may  be able to perform the following task
 
 # 15. Trend in Industry
  
-  <img src="https://render.githubusercontent.com/render/math?math=f(E)=A e^{kT } \frac{a}{b} ">
+  <img src="https://render.githubusercontent.com/render/math?math=f(E)=A e^{\frac{c}{d} kT} \frac{a}{b} ">
   
  <blockquote >
  <p><cite> IoT Security at the Edge with Eurotech: “Security is not just a concern. It’s a barrier to adoption”  [Ref 6]   </p>
