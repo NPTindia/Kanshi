@@ -1,13 +1,7 @@
 # Kanshi
 Deep Learning in  Network  monitoring ( கண்காணிப்பு )  
 
----mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
----
+
 
 # 1. Introduction
 <div align="justify"> 
@@ -136,7 +130,15 @@ The new Watson Assistant experience, focused on using actions to build customer 
 <div align="justify"> 
 <p> Port mirroring, also known as SPAN or roving analysis, is a method of monitoring network traffic that forwards a copy of each incoming and/or outgoing packet from one or more port (or VLAN) of a switch to another port where the network traffic analyzer is connected. SPAN is often used on simpler systems to monitor multiple stations at once  </p>
  </div>
-
+   
+ ### 3.3.3  Enterprise / Home  Router
+ 
+ <div align="justify"> 
+   <p>  
+ Private IP addresses are known only for a small part of the devices on the Internet. For example, the IP address of your computer is known for your home router and, maybe, for your ISP too. Private IP addresses may overlap because they are used in internal networks. That’s why your friend and you may have the same IP addresses for your home routers. Since your IP address is not unique and publicly known, it seems that you can’t just send the information to a server across the Internet without having a public IP address, because the server won’t be able to send the reply to you. However, there’s a solution!. When your ISP router receives a packet from you, it changes your private source IP address to its public IP address. Thus when a server gets the packet from you, it sends the reply to your ISP router, which changes the public destination IP address in the packet to your private IP address. For example, in the next scheme, the server doesn’t know how to reach the 192.168.100.5 IP address, but your ISP router knows and that’s why it does such changes with the IP addresses in packets:
+     </p>
+ </div>
+ 
 
 ## 3.3 Softwaare for Flow Collection
 
