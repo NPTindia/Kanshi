@@ -135,12 +135,20 @@ The new Watson Assistant experience, focused on using actions to build customer 
  
  <div align="justify"> 
    <p>  
- Private IP addresses are known only for a small part of the devices on the Internet. For example, the IP address of your computer is known for your home router and, maybe, for your ISP too. Private IP addresses may overlap because they are used in internal networks. That’s why your friend and you may have the same IP addresses for your home routers. Since your IP address is not unique and publicly known, it seems that you can’t just send the information to a server across the Internet without having a public IP address, because the server won’t be able to send the reply to you. However, there’s a solution!. When your ISP router receives a packet from you, it changes your private source IP address to its public IP address. Thus when a server gets the packet from you, it sends the reply to your ISP router, which changes the public destination IP address in the packet to your private IP address. For example, in the next scheme, the server doesn’t know how to reach the 192.168.100.5 IP address, but your ISP router knows and that’s why it does such changes with the IP addresses in packets:
+ Private IP addresses are known only for a small part of the devices on the Internet. For example, the IP address of your computer is known for your home router and, maybe, for your ISP too. Private IP addresses may overlap because they are used in internal networks. That’s why your friend and you may have the same IP addresses for your home routers. Since your IP address is not unique and publicly known, it seems that you can’t just send the information to a server across the Internet without having a public IP address, because the server won’t be able to send the reply to you. However, there’s a solution!.
+  </p>
+ </div>
+ 
+  [![](https://mermaid.ink/img/eyJjb2RlIjoic3RhdGVEaWFncmFtLXYyXG4gICAgWypdIC0tPiBIb21lUm91dGVyXG4gICAgIEhvbWVSb3V0ZXIgLS0-IElTUFxuICAgIElTUCAtLT4gSG9tZVJvdXRlclxuICAgIElTUCAtLT4gSUJNY2xvdWRTZXJ2ZXJcbiAgICBJQk1jbG91ZFNlcnZlciAtLT4gSVNQXG4gICAgSUJNY2xvdWRTZXJ2ZXIgLS0-IFsqXVxuICAgICAgICAgICAgIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/edit/#eyJjb2RlIjoic3RhdGVEaWFncmFtLXYyXG4gICAgWypdIC0tPiBIb21lUm91dGVyXG4gICAgIEhvbWVSb3V0ZXIgLS0-IElTUFxuICAgIElTUCAtLT4gSG9tZVJvdXRlclxuICAgIElTUCAtLT4gSUJNY2xvdWRTZXJ2ZXJcbiAgICBJQk1jbG91ZFNlcnZlciAtLT4gSVNQXG4gICAgSUJNY2xvdWRTZXJ2ZXIgLS0-IFsqXVxuICAgICAgICAgICAgIiwibWVybWFpZCI6IntcbiAgXCJ0aGVtZVwiOiBcImRlZmF1bHRcIlxufSIsInVwZGF0ZUVkaXRvciI6ZmFsc2UsImF1dG9TeW5jIjp0cnVlLCJ1cGRhdGVEaWFncmFtIjpmYWxzZX0)
+    
+ <div align="justify"> 
+   <p>     
+    When your ISP router receives a packet from you, it changes your private source IP address to its public IP address. Thus when a server gets the packet from you, it sends the reply to your ISP router, which changes the public destination IP address in the packet to your private IP address. For example, in the next scheme, the server doesn’t know how to reach the 192.168.100.5 IP address, but your ISP router knows and that’s why it does such changes with the IP addresses in packets:
      </p>
  </div>
  
- 
-[![](https://mermaid.ink/img/eyJjb2RlIjoic3RhdGVEaWFncmFtLXYyXG4gICAgWypdIC0tPiBTdGlsbFxuICAgIFN0aWxsIC0tPiBbKl1cbiAgICBTdGlsbCAtLT4gTW92aW5nXG4gICAgTW92aW5nIC0tPiBTdGlsbFxuICAgIE1vdmluZyAtLT4gQ3Jhc2hcbiAgICBDcmFzaCAtLT4gWypdXG4gICAgICAgICAgICAiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlLCJhdXRvU3luYyI6dHJ1ZSwidXBkYXRlRGlhZ3JhbSI6ZmFsc2V9)](https://mermaid-js.github.io/mermaid-live-editor/edit/#eyJjb2RlIjoic3RhdGVEaWFncmFtLXYyXG4gICAgWypdIC0tPiBTdGlsbFxuICAgIFN0aWxsIC0tPiBbKl1cbiAgICBTdGlsbCAtLT4gTW92aW5nXG4gICAgTW92aW5nIC0tPiBTdGlsbFxuICAgIE1vdmluZyAtLT4gQ3Jhc2hcbiAgICBDcmFzaCAtLT4gWypdXG4gICAgICAgICAgICAiLCJtZXJtYWlkIjoie1xuICBcInRoZW1lXCI6IFwiZGVmYXVsdFwiXG59IiwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)
+
+
  
 
 ## 3.3 Softwaare for Flow Collection
