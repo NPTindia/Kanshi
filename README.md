@@ -227,17 +227,19 @@ QRadar analyzes your flow data for applications, flow direction, and superflows.
 
 
 
-What is the need to model binary data? </br> 
-What we can do with model? </br>
-How probability is assigned  to binary vector ? </br>
+ Find a  model of a given binary data? </br> 
+ 
+What can be  done with model that emerged from binary data? </br>
+How probability is assigned  to each binary vector ? </br>
 how this is connected to the weights of Boltzmann Machine?
 
-  <img src="https://render.githubusercontent.com/render/math?math=f(E)=A e^{- \frac{E}{kT}}">
+
 
 Boltzmann Machine models set of Binary Vectors  </br>
-How to use Boltzmann machine to detect unusual behaviour of Complex Systems?. For example vital sign monitoring by using Boltzmann machine
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+  <img src="https://render.githubusercontent.com/render/math?math=f(E)=A e^{- \frac{E}{kT}}">
+  
+How to use Boltzmann machine to detect unusual behaviour of Complex Systems?.
 
 Build a model for Normal state. </br>
 For example use data of TCP/IP flow  in Enterprise  Network   to model Normal state 
