@@ -236,6 +236,8 @@ how this is connected to the weights of Boltzmann Machine?
 Boltzmann Machine models set of Binary Vectors  </br>
 How to use Boltzmann machine to detect unusual behaviour of Complex Systems?. For example vital sign monitoring by using Boltzmann machine
 
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
 Build a model for Normal state. </br>
 For example use data of TCP/IP flow  in Enterprise  Network   to model Normal state 
 
