@@ -232,6 +232,7 @@ What we can do with model? </br>
 How probability is assigned  to binary vector ? </br>
 how this is connected to the weights of Boltzmann Machine?
 
+  <img src="https://render.githubusercontent.com/render/math?math=f(E)=A e^{- \frac{E}{kT}}">
 
 Boltzmann Machine models set of Binary Vectors  </br>
 How to use Boltzmann machine to detect unusual behaviour of Complex Systems?. For example vital sign monitoring by using Boltzmann machine
@@ -624,7 +625,7 @@ After completing this course, learner may  be able to perform the following task
 
 # 15. Trend in Industry
  
-  <img src="https://render.githubusercontent.com/render/math?math=f(E)=A e^{\frac{c}{d} kT} \frac{a}{b} ">
+
   
  <blockquote >
  <p><cite> IoT Security at the Edge with Eurotech: “Security is not just a concern. It’s a barrier to adoption”  [Ref 6]   </p>
