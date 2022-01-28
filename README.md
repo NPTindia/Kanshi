@@ -642,4 +642,6 @@ After completing this course, learner may  be able to perform the following task
    </p>
     </div>
     
+    
+    <img src="https://render.githubusercontent.com/render/math?math= A e^{\frac{\pi }{b}}">
 
