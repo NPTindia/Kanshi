@@ -113,10 +113,11 @@ The new Watson Assistant experience, focused on using actions to build customer 
  <p> QRadar® Network Insights appliances connect to network TAPs, SPAN, or mirror ports to access full packet data for real-time analysis. All QRadar Network Insights appliances provide detailed analysis of network flows to extend the threat detection capabilities of QRadar.  </p>
  </div>
  
+ <p align="center">
+ [![](https://mermaid.ink/img/eyJjb2RlIjoic3RhdGVEaWFncmFtLXYyXG4gICBcbiAgICAgUEMyIC0tPiBUQVBcbiAgICAgIFRBUCAtLT4gUm91dGVyXG4gICAgICBUQVAgLS0-IFBhY2tldENhcHR1cmVcbiAgICAgIFBhY2tldENhcHR1cmUgLS0-IFFSYWRhckNvbnNvbGVcbiAgICAgICAgUEMxIC0tPiBTd2l0Y2hcbiAgICBQQzIgLS0-IFBDMVxuICAgIFBDMSAtLT4gUEMyXG4gICAgICAgICAgICAgICAgIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/edit/#eyJjb2RlIjoic3RhdGVEaWFncmFtLXYyXG4gICBcbiAgICAgUEMyIC0tPiBUQVBcbiAgICAgIFRBUCAtLT4gUm91dGVyXG4gICAgICBUQVAgLS0-IFBhY2tldENhcHR1cmVcbiAgICAgIFBhY2tldENhcHR1cmUgLS0-IFFSYWRhckNvbnNvbGVcbiAgICAgICAgUEMxIC0tPiBTd2l0Y2hcbiAgICBQQzIgLS0-IFBDMVxuICAgIFBDMSAtLT4gUEMyXG4gICAgICAgICAgICAgICAgIiwibWVybWFpZCI6IntcbiAgXCJ0aGVtZVwiOiBcImRlZmF1bHRcIlxufSIsInVwZGF0ZUVkaXRvciI6ZmFsc2UsImF1dG9TeW5jIjp0cnVlLCJ1cGRhdGVEaWFncmFtIjpmYWxzZX0)
+ </p>
 
-<p align="center">
-  <img  src="https://user-images.githubusercontent.com/58679469/150741981-27a75244-e6e8-43a7-b07e-4e32982f2c99.png">
-</p>
+
 
 ### 3.2.1 TAP
 <div align="justify"> 
