@@ -686,44 +686,33 @@ After completing this course, learner may  be able to perform the following task
     
   #  16. Appendix 
   
-  <ul>
-  <li>  </li>
-   <li>  </li>
-   <li>  </li> Kanshi A
-   <li>  </li>
-   <li>  </li>
-</ul>
-
-  Markup : <details>
-           <summary>Title 1</summary>
- <p> Content 1 </p> <p> Content 1 Content 1 Content 1 Content 1</p>
-         </details>
-
-  
-Module 1: Introduction to Cybersecurity Risk Management
-Module 13: Secure Systems Administration
-Module 2: Cybersecurity Foundation Concepts
-Module 14: Secure Network Administration
-Module 3: Federal Government Role: Law, Operations, and Standards
-Module 15: Cloud Security
-Module 4: Threats and Vulnerabilities
-Module 16: Preparing for a Job in Cybersecurity Operations
-Module 5: Cybersecurity for Critical Urban Infrastructure
-Module 17: Introduction to Offensive Cybersecurity
-Module 6: Identity and Access Management (IAM) Concepts
-Module 18: Penetration Testing Part 1
-Module 7: IAM Layers and Technology
-Module 19: Penetration Testing Part 2
-Module 8: Preparing for a Job in Cybersecurity Risk Management
-Module 20: Social Engineering
-Module 9: Introduction to Defensive Cybersecurity
-Module 21: Artificial Intelligence
-Module 10: Cryptography
-Module 22: Policy and Privacy, Regulation, and Data Governance
-Module 11: Security Operations Center (SOC)
-Module 23: OT and IoT Risk
-Module 12: Incident Response (IR)
-Module 24: Preparing for a Job in Offensive Cybersecurity Operations
+   Markup : <details>
+           <summary> Post Graduate (from MIT)  Certificate in Cybersecurity </summary> 
+<p> Module 1: Introduction to Cybersecurity Risk Management </p> 
+<p> Module 13: Secure Systems Administration </p> 
+<p> Module 2: Cybersecurity Foundation Concepts </p> 
+<p> Module 14: Secure Network Administration </p> 
+<p> Module 3: Federal Government Role: Law, Operations, and Standards </p> 
+<p> Module 15: Cloud Security </p> 
+<p> Module 4: Threats and Vulnerabilities </p> 
+<p> Module 16: Preparing for a Job in Cybersecurity Operations </p> 
+<p> Module 5: Cybersecurity for Critical Urban Infrastructure </p> 
+<p> Module 17: Introduction to Offensive Cybersecurity </p> 
+<p> Module 6: Identity and Access Management (IAM) Concepts </p> 
+<p> Module 18: Penetration Testing Part 1 </p> 
+<p> Module 7: IAM Layers and Technology </p> 
+<p> Module 19: Penetration Testing Part 2 </p> 
+<p> Module 8: Preparing for a Job in Cybersecurity Risk Management </p> 
+<p> Module 20: Social Engineering </p> 
+<p> Module 9: Introduction to Defensive Cybersecurity </p> 
+<p> Module 21: Artificial Intelligence </p> 
+<p> Module 10: Cryptography </p> 
+<p> Module 22: Policy and Privacy, Regulation, and Data Governance </p> 
+<p> Module 11: Security Operations Center (SOC) </p> 
+<p> Module 23: OT and IoT Risk </p> 
+<p> Module 12: Incident Response (IR) </p> 
+<p> Module 24: Preparing for a Job in Offensive Cybersecurity Operations </p> 
+   </details>
 
     
 
