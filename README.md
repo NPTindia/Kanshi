@@ -28,7 +28,7 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
 There have been events in which unwanted and harmful IP packets are used  to perform certain act in a remote machine.  Thus, there is a need to stop such IP packets in a given enterprise network and provide safety  to users of the internet in their enterprise. Volume of IP packets travels in a given enterprise network requires a huge amount of computing power to monitor IP packets and safeguard their user application.
  
  </p>
- </div>
+ </div> 
 
 </div>
 In Boltzmann machine, each un-directed edge represents dependency. Above example there are 3 hidden units and 4 visible units.   This is not a restricted Boltzmann machine. But, effort is made  to use  Restricted   Boltzmann machine to solve Security problems in IP  Network [Ref 5].
