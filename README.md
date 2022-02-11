@@ -408,67 +408,6 @@ To simulate a network configuration change
    <li>   Simulate an attack against the topology model. </li>
 </ul>
 
-   ![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2FTLmaK0%2Fgravizo%2Fmaster%2FREADME.md)
-<details> 
-<summary></summary>
-custom_mark10
-  digraph G {
-    size ="4,4";
-    Network activity [shape=box];
-    Network activity -> Packet Capture [weight=8];
-    make PCAP stream -> data for Tensfor Flow Model;
-    Network activity -> tcpdump [style=dotted];
-    Network activity -> Wireshark;
-    Inference -> { Result in Web Micro Serice ; Result in ResT API Service};
-    tcpdump -> Result in Web Micro Serice;
-    edge [color=red];
-    Network activity -> Result in ResT API Service [style=bold,label="100 times"];
-    Result in Web Micro Serice [label="make a string"];
-    node [shape=box,style=filled,color=".7 .3 1.0"];
-    Inference -> Dialog with Engineer;
-  }
-custom_mark10
-</details>
-  
-  
-  ![Alt text](https://g.gravizo.com/g?
-  digraph G {
-    size ="4,4";
-    Network activity [shape=box];
-    Network activity -> Packet Capture [weight=8];
-    make PCAP stream -> data for Tensfor Flow Model;
-    Network activity -> tcpdump [style=dotted];
-    Network activity -> Wireshark;
-    Inference -> { Result in Web Micro Serice ; Result in ResT API Service};
-    tcpdump -> Result in Web Micro Serice;
-    edge [color=red];
-    Network activity -> Result in ResT API Service [style=bold,label="100 times"];
-    Result in Web Micro Serice [label="make a string"];
-    node [shape=box,style=filled,color=".7 .3 1.0"];
-    Inference -> Dialog with Engineer;
-  }
-)
-
-![Alt text](https://g.gravizo.com/svg?
-  digraph G {
-    aize ="4,4";
-    main [shape=box];
-    main -> parse [weight=8];
-    parse -> execute;
-    main -> init [style=dotted];
-    main -> cleanup;
-    execute -> { make_string; printf};
-    init -> make_string;
-    edge [color=red];
-    main -> printf [style=bold,label="100 times"];
-    make_string [label="make a string"];
-    node [shape=box,style=filled,color=".7 .3 1.0"];
-    execute -> compare;
-  }
-)
-
-![Alt text](https://g.gravizo.com/g? digraph G { aize ="4,4"; main [shape=box]; main -> parse [weight=8]; parse -> execute; main -> init [style=dotted]; main -> cleanup; execute -> { make_string; printf}; init -> make_string; edge [color=red]; main -> printf [style=bold,label="100 times"]; make_string [label="make a string"]; node [shape=box,style=filled,color=".7 .3 1.0"]; execute -> compare; } )
-
 
 # 6. Data Set : PCAP file / Stream to Tensor
 
