@@ -381,8 +381,7 @@ The main reason for this is complexity in the identification and assigning of va
    <li> Virtual network segments allow you to confine and test sensitive portions of your network or assets. </li>
 </ul>
         
-   ![Alt text](https://g.gravizo.com/source/<custom_mark>?<url_source_url_encoded>) 
-<details> 
+   ![Alt text](https://g.gravizo.com/source/<custom_mark>?<url_source_url_encoded>)  <details> 
 <summary></summary>
 custom_mark10
   digraph G {
@@ -418,7 +417,7 @@ To simulate a network configuration change
 # 6. Data Set : PCAP file / Stream to Tensor
 
 
-## Read Packets from PCAP Stream
+## 6.1 Read Packets from PCAP Stream
 
 - Collect data from Netowrk and store it in PCAP File
 - Process PCAP file as given in the following diagram to get Tensor
@@ -427,7 +426,7 @@ To simulate a network configuration change
 
 ![NetworkSecurityLab](https://user-images.githubusercontent.com/58679469/150686458-0f1f0f10-84d9-4580-a694-15644f2064ec.jpg)
 
- ## Create Tensor from PCAP Packets
+ ## 6.2 Create Tensor from PCAP Packets
  If a new pcap record was populated successfully, the scalars are placed into respective tensor placeholders. The shape of the resulting output tensor is a matrix with two columns. One column holds the timestamp scalars for each read pcap packet. The other column holds the corresponding packet data as a string. Each row in the output tensor (matrix) corresponds to a pcap packet
 
 ![NetworkSecurityLab(1)](https://user-images.githubusercontent.com/58679469/150686463-becf05b1-cd0e-4d4c-868e-d07a55f7f4f2.jpg)
