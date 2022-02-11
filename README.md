@@ -3,7 +3,7 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
 
 ![formula](https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1)
 
-![a -> b](http://g.gravizo.com/g?
+![a -> b](http://g.gravizo.com/svg?
 digraph G {
     a -> b
 }
