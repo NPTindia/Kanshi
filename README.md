@@ -429,6 +429,25 @@ custom_mark10
 custom_mark10
 </details>
   
+  
+  ![Alt text](https://g.gravizo.com/g?
+  digraph G {
+    size ="4,4";
+    Network activity [shape=box];
+    Network activity -> Packet Capture [weight=8];
+    make PCAP stream -> data for Tensfor Flow Model;
+    Network activity -> tcpdump [style=dotted];
+    Network activity -> Wireshark;
+    Inference -> { Result in Web Micro Serice ; Result in ResT API Service};
+    tcpdump -> Result in Web Micro Serice;
+    edge [color=red];
+    Network activity -> Result in ResT API Service [style=bold,label="100 times"];
+    Result in Web Micro Serice [label="make a string"];
+    node [shape=box,style=filled,color=".7 .3 1.0"];
+    Inference -> Dialog with Engineer;
+  }
+)
+
 
 
 
