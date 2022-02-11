@@ -448,7 +448,7 @@ custom_mark10
   }
 )
 
-![Alt text](https://g.gravizo.com/g?
+![Alt text](https://g.gravizo.com/svg?
   digraph G {
     aize ="4,4";
     main [shape=box];
