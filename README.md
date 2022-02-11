@@ -59,6 +59,24 @@ Deep Learning has been used in solving image classification and associated probl
 
  </div>
 
+  <div align="justify"> 
+<p> 
+ National Institute of Standards and Technology (NIST) Framework : 
+The NIST CSF framework is threaded throughout the entire program as a commonly used framework. It is a widely used cybersecurity framework that encompasses guidelines for organizations to prepare themselves against cybersecurity attacks.
+ </div>
+ 
+ 
+  <div align="justify"> 
+<p> 
+  Cloud Security Alliance (CSA) Cloud Controls Matrix (CCM): 
+The Cloud Security Alliance (CSA) Cloud Controls Matrix (CCM) is discussed in the defensive cybersecurity section. This framework includes domains covering the aspects of cloud technology
+ </div>
+ 
+ 
+  <div align="justify">  
+<p>   MITRE ATT&CK® : 
+The MITRE ATT&CK® knowledge base is explored deeper in the offensive and defensive pieces of this program. It contains adversary tactics and techniques that are utilized as the foundational development of specific threat models and methodologies.
+ </div>
   
 # 2. Problem Definition 
 
@@ -666,6 +684,47 @@ After completing this course, learner may  be able to perform the following task
    </p>
     </div>
     
+  #  16. Appendix 
+  
+  <ul>
+  <li>  </li>
+   <li>  </li>
+   <li>  </li> Kanshi A
+   <li>  </li>
+   <li>  </li>
+</ul>
+
+  Markup : <details>
+           <summary>Title 1</summary>
+ <p> Content 1 </p> <p> Content 1 Content 1 Content 1 Content 1</p>
+         </details>
+
+  
+Module 1: Introduction to Cybersecurity Risk Management
+Module 13: Secure Systems Administration
+Module 2: Cybersecurity Foundation Concepts
+Module 14: Secure Network Administration
+Module 3: Federal Government Role: Law, Operations, and Standards
+Module 15: Cloud Security
+Module 4: Threats and Vulnerabilities
+Module 16: Preparing for a Job in Cybersecurity Operations
+Module 5: Cybersecurity for Critical Urban Infrastructure
+Module 17: Introduction to Offensive Cybersecurity
+Module 6: Identity and Access Management (IAM) Concepts
+Module 18: Penetration Testing Part 1
+Module 7: IAM Layers and Technology
+Module 19: Penetration Testing Part 2
+Module 8: Preparing for a Job in Cybersecurity Risk Management
+Module 20: Social Engineering
+Module 9: Introduction to Defensive Cybersecurity
+Module 21: Artificial Intelligence
+Module 10: Cryptography
+Module 22: Policy and Privacy, Regulation, and Data Governance
+Module 11: Security Operations Center (SOC)
+Module 23: OT and IoT Risk
+Module 12: Incident Response (IR)
+Module 24: Preparing for a Job in Offensive Cybersecurity Operations
+
     
 
 
