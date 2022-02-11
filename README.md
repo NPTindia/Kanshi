@@ -752,6 +752,7 @@ After completing this course, learner may  be able to perform the following task
 <p> Module 24: Preparing for a Job in Offensive Cybersecurity Operations </p> 
    </details>
 
-    ![formula](https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1)
+
+![formula](https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1)
 
 
