@@ -6,20 +6,21 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
          Prerequisites: . IT infrastructure,  IT security fundamentals,  Linux ,TCP/IP networking
          Duration : 2 week  instructor-led course with Online content.
          Lab environment: Course uses the github, JupyterLab, Scapy and few more tool set.
-         <details> <summary> Micro Objectives to Learn </summary> 
- <p> Familiarity with  Scapy to  collect data  and  detect suspicious activities </p> 
- <p> Using  Deep Learning  architecture to handle data flows  </p>
- <p> Design a Navigation  for user interface ( by using IBM Watson Assistant) </p>
- <p> Provide information on  log sources, protocols, and event details </p>
- <p>  Discover how  Scapy collects and analyzes network flow information  </p>
- <p> Deep learning  based  Custom Rule Engine design and development  </p>
- <p> Utilize the Use Case Manager app </p>
- <p> Manage security of asset information in real time </p>
- <p> Learn about a variety of  AI apps for security , content extensions, and the App Framework </p>
- <p>Analyze offenses by using the AI  and the Analyst Workflow app  </p>
- <p> Use Python in Jupyter lab  to create customized reports </p>
-  <p>   Search, filter, group, and analyze security data </p> 
-   </details>
+         <details>
+         <summary> Micro Objectives to Learn </summary> 
+           <p> Familiarity with  Scapy to  collect data  and  detect suspicious activities </p> 
+          <p> Using  Deep Learning  architecture to handle data flows  </p>
+          <p> Design a Navigation  for user interface ( by using IBM Watson Assistant) </p>
+          <p> Provide information on  log sources, protocols, and event details </p>
+          <p>  Discover how  Scapy collects and analyzes network flow information  </p>
+          <p> Deep learning  based  Custom Rule Engine design and development  </p>
+          <p> Utilize the Use Case Manager app </p>
+          <p> Manage security of asset information in real time </p>
+          <p> Learn about a variety of  AI apps for security , content extensions, and the App Framework </p>
+          <p>Analyze offenses by using the AI  and the Analyst Workflow app  </p>
+          <p> Use Python in Jupyter lab  to create customized reports </p>
+           <p>   Search, filter, group, and analyze security data </p> 
+        </details>
          
          
    <details>
