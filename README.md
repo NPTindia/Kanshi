@@ -1,6 +1,9 @@
 # Kanshi
 Deep Learning in  Network  monitoring ( கண்காணிப்பு )  
 
+<blockquote >
+ <p><cite> IoT Security at the Edge with Eurotech: “Security is not just a concern. It’s a barrier to adoption”  [Ref 6]   </p>
+</blockquote>
   
          Prerequisites: . IT infrastructure,  IT security fundamentals,  Linux, TCP/IP networking
          Duration : 2 week  Instructorled course with Online content.
@@ -631,9 +634,7 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
  
 
   
- <blockquote >
- <p><cite> IoT Security at the Edge with Eurotech: “Security is not just a concern. It’s a barrier to adoption”  [Ref 6]   </p>
-</blockquote>
+ 
 
 
  <p> MIT Technology Review  01.24.22.  [Ref 7]  </p>
