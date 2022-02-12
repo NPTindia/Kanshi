@@ -632,11 +632,6 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
    
 # 13. Trend in Industry
  
-
-  
- 
-
-
  <p> MIT Technology Review  01.24.22.  [Ref 7]  </p>
 <blockquote >
  <p><cite> Escalating actions: Russia has sent more than 100,000 soldiers to the nation's border with Ukraine. While no physical invasion has taken place yet, cyber operations are already underway. Earlier this month, hackers defaced dozens of government websites in Ukraine, a technically simple but attention-grabbing act that generated global headlines. More quietly, they also placed destructive malware inside Ukrainian government agencies. It’s not clear yet who is responsible, but Russia is the leading suspect    </p>
@@ -650,8 +645,6 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
    </p>
     </div>
     
-  #  14. Appendix 
-  
  <details>
            <summary> Post Graduate (from MIT)  Certificate in Cybersecurity </summary> 
 <p>  Introduction to Cybersecurity Risk Management </p> 
@@ -680,7 +673,7 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 <p>  Preparing for a Job in Offensive Cybersecurity Operations </p> 
    </details>
 
-
+  
 ![formula](https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1)
 
 
