@@ -1,10 +1,15 @@
 # Kanshi
 Deep Learning in  Network  monitoring ( கண்காணிப்பு )  
 
-         Micro Objectives to Learn
+  
 
-   Markup : <details>
-           <summary> After completing this course, learner may  be able to perform the following task </summary> 
+         Prerequisites: . IT infrastructure,  IT security fundamentals,  Linux ,TCP/IP networking
+         Duration : 2 week  instructor-led course with Online content.
+         Lab environment: Course uses the github, JupyterLab, Scapy and few more tool set.
+         
+         Micro Objectives to Learn
+   <details>
+  <summary> After completing this course, learner may  be able to perform the following task </summary> 
  <p> Familiarity with  Scapy to  collect data  and  detect suspicious activities </p> 
  <p> Using  Deep Learning  architecture to handle data flows  </p>
  <p> Design a Navigation  for user interface ( by using IBM Watson Assistant) </p>
@@ -18,10 +23,6 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
  <p> Use Python in Jupyter lab  to create customized reports </p>
   <p>   Search, filter, group, and analyze security data </p> 
    </details>
-
-         Prerequisites: . IT infrastructure,  IT security fundamentals,  Linux ,TCP/IP networking
-         Duration : 2 week  instructor-led course with Online content.
-         Lab environment: Course uses the github, JupyterLab, Scapy and few more tool set.
 
 # 1. Introduction
 <div align="justify"> 
