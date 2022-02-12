@@ -1,8 +1,41 @@
 # Kanshi
 Deep Learning in  Network  monitoring ( கண்காணிப்பு )  
 
+         Micro Objectives to Learn
+
+ Markup : <details>
+           <summary> After completing this course, learner may  be able to perform the following task </summary> 
+ <p> Familiarity with  Scapy to  collect data  and  detect suspicious activities </p> 
+ <p> Using  Deep Learning  architecture to handle data flows  </p>
+ <p> Design a Navigation  for user interface ( by using IBM Watson Assistant) </p>
+ <p> Provide information on  log sources, protocols, and event details </p>
+ <p>  Discover how  Scapy collects and analyzes network flow information  </p>
+ <p> Deep learning  based  Custom Rule Engine design and development  </p>
+ <p> Utilize the Use Case Manager app </p>
+ <p> Manage security of asset information in real time </p>
+ <p> Learn about a variety of  AI apps for security , content extensions, and the App Framework </p>
+ <p>Analyze offenses by using the AI  and the Analyst Workflow app  </p>
+ <p> Use Python in Jupyter lab  to create customized reports </p>
+  <p>   Search, filter, group, and analyze security data </p> 
+   </details>
+
+          Prerequisites
+
+During above course work,  following skills  will be useful  to handle given workflow as part of Blended Learning.
+
+<ul>
+  <li> IT infrastructure </li>
+   <li> IT security fundamentals  </li>
+   <li> Linux </li> 
+   <li>  TCP/IP networking</li>
+</ul>
 
 
+              Duration 
+2 week  instructor-led course with Online content.
+
+              Lab environment
+Course uses the github, JupyterLab, Scapy and few more tool set.
 
 # 1. Introduction
 <div align="justify"> 
@@ -602,46 +635,13 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 11.  https://medium.com/geekculture/network-intrusion-detection-using-deep-learning-bcc91e9b999d  Network Intrusion Detection using Deep Learning
 12.  https://github.com/abhinav-bhardwaj/Network-Intrusion-Detection-Using-Machine-Learning/blob/master/Data_Preprocessing_NSL_KDD.ipynb  Data Preprocessing
 
-# 13.  Delivery Plan
-
-##  Prerequisites
 
 
-During above course work,  following skills  will be useful  to handle given workflow as part of Blended Learning.
-
-<ul>
-  <li> IT infrastructure </li>
-   <li> IT security fundamentals  </li>
-   <li> Linux </li> 
-   <li>  TCP/IP networking</li>
-</ul>
 
 
-## Duration 
-2 week  instructor-led course with Online content.
 
-## Lab environment
-Course uses the github, JupyterLab, Scapy and few more tool set.
-
-# 14. Micro Objectives to Learn
-After completing this course, learner may  be able to perform the following tasks
-
-<ul>
-  <li> Familiarity with  Scapy to  collect data  and  detect suspicious activities </li>
-   <li> Using  Deep Learning  architecture to handle data flows </li>
-   <li> Design a Navigation  for user interface ( by using IBM Watson Assistant) </li> 
-   <li> Provide information on  log sources, protocols, and event details </li>
-   <li>Discover how  Scapy collects and analyzes network flow information  </li>
- <li>   Deep learning  based  Custom Rule Engine design and development</li>
-   <li>  Utilize the Use Case Manager app</li>
-   <li> Manage security of asset information in real time </li> 
-   <li> Learn about a variety of  AI apps for security , content extensions, and the App Framework </li>
-   <li> Analyze offenses by using the AI  and the Analyst Workflow app </li>
-<li> Use Python in Jupyter lab  to create customized reports </li>
-<li> Search, filter, group, and analyze security data </li>
-</ul>
-
-# 15. Trend in Industry
+   
+# 13. Trend in Industry
  
 
   
@@ -663,7 +663,7 @@ After completing this course, learner may  be able to perform the following task
    </p>
     </div>
     
-  #  16. Appendix 
+  #  14. Appendix 
   
    Markup : <details>
            <summary> Post Graduate (from MIT)  Certificate in Cybersecurity </summary> 
