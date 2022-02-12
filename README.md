@@ -2,26 +2,10 @@
 Deep Learning in  Network  monitoring ( கண்காணிப்பு )  
 
   
-
-         Prerequisites: . IT infrastructure,  IT security fundamentals,  Linux ,TCP/IP networking
-         Duration : 2 week  instructor-led course with Online content.
+         Prerequisites: . IT infrastructure,  IT security fundamentals,  Linux, TCP/IP networking
+         Duration : 2 week  Instructorled course with Online content.
          Lab environment: Course uses the github, JupyterLab, Scapy and few more tool set.
-         <details>
-         <summary> Micro Objectives to Learn </summary> 
-           <p> Familiarity with  Scapy to  collect data  and  detect suspicious activities </p> 
-          <p> Using  Deep Learning  architecture to handle data flows  </p>
-          <p> Design a Navigation  for user interface ( by using IBM Watson Assistant) </p>
-          <p> Provide information on  log sources, protocols, and event details </p>
-          <p>  Discover how  Scapy collects and analyzes network flow information  </p>
-          <p> Deep learning  based  Custom Rule Engine design and development  </p>
-          <p> Utilize the Use Case Manager app </p>
-          <p> Manage security of asset information in real time </p>
-          <p> Learn about a variety of  AI apps for security , content extensions, and the App Framework </p>
-          <p>Analyze offenses by using the AI  and the Analyst Workflow app  </p>
-          <p> Use Python in Jupyter lab  to create customized reports </p>
-           <p>   Search, filter, group, and analyze security data </p> 
-        </details>
-         
+                 
          
    <details>
   <summary> Micro Objectives to Learn </summary> 
@@ -667,32 +651,32 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
     
   #  14. Appendix 
   
-   Markup : <details>
+ <details>
            <summary> Post Graduate (from MIT)  Certificate in Cybersecurity </summary> 
-<p> Module 1: Introduction to Cybersecurity Risk Management </p> 
-<p> Module 13: Secure Systems Administration </p> 
-<p> Module 2: Cybersecurity Foundation Concepts </p> 
-<p> Module 14: Secure Network Administration </p> 
-<p> Module 3: Federal Government Role: Law, Operations, and Standards </p> 
-<p> Module 15: Cloud Security </p> 
-<p> Module 4: Threats and Vulnerabilities </p> 
-<p> Module 16: Preparing for a Job in Cybersecurity Operations </p> 
-<p> Module 5: Cybersecurity for Critical Urban Infrastructure </p> 
-<p> Module 17: Introduction to Offensive Cybersecurity </p> 
-<p> Module 6: Identity and Access Management (IAM) Concepts </p> 
-<p> Module 18: Penetration Testing Part 1 </p> 
-<p> Module 7: IAM Layers and Technology </p> 
-<p> Module 19: Penetration Testing Part 2 </p> 
-<p> Module 8: Preparing for a Job in Cybersecurity Risk Management </p> 
-<p> Module 20: Social Engineering </p> 
-<p> Module 9: Introduction to Defensive Cybersecurity </p> 
-<p> Module 21: Artificial Intelligence </p> 
-<p> Module 10: Cryptography </p> 
-<p> Module 22: Policy and Privacy, Regulation, and Data Governance </p> 
-<p> Module 11: Security Operations Center (SOC) </p> 
-<p> Module 23: OT and IoT Risk </p> 
-<p> Module 12: Incident Response (IR) </p> 
-<p> Module 24: Preparing for a Job in Offensive Cybersecurity Operations </p> 
+<p>  Introduction to Cybersecurity Risk Management </p> 
+<p>  Secure Systems Administration </p> 
+<p>  Cybersecurity Foundation Concepts </p> 
+<p>  Secure Network Administration </p> 
+<p>  Federal Government Role: Law, Operations, and Standards </p> 
+<p>  Cloud Security </p> 
+<p>  Threats and Vulnerabilities </p> 
+<p>  Preparing for a Job in Cybersecurity Operations </p> 
+<p>  Cybersecurity for Critical Urban Infrastructure </p> 
+<p>  Introduction to Offensive Cybersecurity </p> 
+<p>  Identity and Access Management (IAM) Concepts </p> 
+<p>  Penetration Testing Part 1 </p> 
+<p>  IAM Layers and Technology </p> 
+<p>  Penetration Testing Part 2 </p> 
+<p> Preparing for a Job in Cybersecurity Risk Management </p> 
+<p>  Social Engineering </p> 
+<p>  Introduction to Defensive Cybersecurity </p> 
+<p>  Artificial Intelligence </p> 
+<p> Cryptography </p> 
+<p> Policy and Privacy, Regulation, and Data Governance </p> 
+<p> Security Operations Center (SOC) </p> 
+<p>  OT and IoT Risk </p> 
+<p> Incident Response (IR) </p> 
+<p>  Preparing for a Job in Offensive Cybersecurity Operations </p> 
    </details>
 
 
