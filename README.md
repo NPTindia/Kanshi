@@ -599,6 +599,8 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 8.  https://github.com/TLmaK0/gravizo  gravizo
 9.  https://g.gravizo.com/  Gravizo - Your Graphviz, UMLGraph or PlantUML for your README
 10.  https://gist.github.com/VictorNS69/1c952045825eac1b5e4d9fc84ad9d384 latex in github
+11.  https://medium.com/geekculture/network-intrusion-detection-using-deep-learning-bcc91e9b999d  Network Intrusion Detection using Deep Learning
+12.  https://github.com/abhinav-bhardwaj/Network-Intrusion-Detection-Using-Machine-Learning/blob/master/Data_Preprocessing_NSL_KDD.ipynb  Data Preprocessing
 
 # 13.  Delivery Plan
 
