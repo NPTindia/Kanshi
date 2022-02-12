@@ -3,7 +3,7 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
 
          Micro Objectives to Learn
 
- Markup : <details>
+Markup : <details>
            <summary> After completing this course, learner may  be able to perform the following task </summary> 
  <p> Familiarity with  Scapy to  collect data  and  detect suspicious activities </p> 
  <p> Using  Deep Learning  architecture to handle data flows  </p>
@@ -19,10 +19,7 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
   <p>   Search, filter, group, and analyze security data </p> 
    </details>
 
-          Prerequisites
-
-During above course work,  following skills  will be useful  to handle given workflow as part of Blended Learning.
-
+         Prerequisites:  During above course work,  following skills  will be useful  to handle given workflow as part of Blended Learning.
 <ul>
   <li> IT infrastructure </li>
    <li> IT security fundamentals  </li>
@@ -31,11 +28,9 @@ During above course work,  following skills  will be useful  to handle given wor
 </ul>
 
 
-              Duration 
-2 week  instructor-led course with Online content.
+         Duration : 2 week  instructor-led course with Online content.
 
-              Lab environment
-Course uses the github, JupyterLab, Scapy and few more tool set.
+         Lab environment: Course uses the github, JupyterLab, Scapy and few more tool set.
 
 # 1. Introduction
 <div align="justify"> 
