@@ -7,9 +7,9 @@ Deep Learning in  Network  monitoring ( கண்காணிப்பு )
          Duration : 2 week  instructor-led course with Online content.
          Lab environment: Course uses the github, JupyterLab, Scapy and few more tool set.
          
-         Micro Objectives to Learn
+         
    <details>
-  <summary> After completing this course, learner may  be able to perform the following task </summary> 
+  <summary> Micro Objectives to Learn </summary> 
  <p> Familiarity with  Scapy to  collect data  and  detect suspicious activities </p> 
  <p> Using  Deep Learning  architecture to handle data flows  </p>
  <p> Design a Navigation  for user interface ( by using IBM Watson Assistant) </p>
