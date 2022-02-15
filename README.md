@@ -101,6 +101,8 @@ The Cloud Security Alliance (CSA) Cloud Controls Matrix (CCM) is discussed in th
 The MITRE ATT&CK® knowledge base is explored deeper in the offensive and defensive pieces of this program. It contains adversary tactics and techniques that are utilized as the foundational development of specific threat models and methodologies.
  </div>
   
+  ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Assessment (Quiz of 15 MCQ)
+  
 # 2. Problem Definition 
 
 <div align="justify"> 
