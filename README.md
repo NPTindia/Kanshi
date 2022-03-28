@@ -625,6 +625,7 @@ https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-android-w
 10.  https://gist.github.com/VictorNS69/1c952045825eac1b5e4d9fc84ad9d384 latex in github
 11.  https://medium.com/geekculture/network-intrusion-detection-using-deep-learning-bcc91e9b999d  Network Intrusion Detection using Deep Learning
 12.  https://github.com/abhinav-bhardwaj/Network-Intrusion-Detection-Using-Machine-Learning/blob/master/Data_Preprocessing_NSL_KDD.ipynb  Data Preprocessing
+13.  https://www.communicationstoday.co.in/1402809-cyber-security-incidents-were-reported-by-cert-in-in-2021/?utm_source=newsletter&utm_medium=email&utm_campaign=March4  1402809 cyber security incidents reported in India
 
 
 
